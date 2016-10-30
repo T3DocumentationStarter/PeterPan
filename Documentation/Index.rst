@@ -6,11 +6,11 @@
 My Public Info Project
 ======================
 
---------
-Subtitle
---------
-
 :Author: `Martin Bless <martin.bless@mbless.de>`__
+
+.. note::
+
+   This is a **one file** documentation.
 
 Some Scrap
 ==========
