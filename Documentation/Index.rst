@@ -24,7 +24,6 @@ See the `buildinfo <https://docs.typo3.org/typo3cms/drafts/github/T3Documentatio
 
 
 
-
 Introduction
 ============
 
