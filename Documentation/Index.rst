@@ -13,7 +13,12 @@ This is some PHP code:
 
 See the buildinfo_ 
 
-.. _buildinfo: ./buildinfo/
+.. _buildinfo: https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/_buildinfo/
+
+
+See the buildinfo__
+
+__ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/_buildinfo/
 
 See the `buildinfo <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/_buildinfo/>`__
 
