@@ -10,10 +10,10 @@ My Public Info Project
 Subtitle
 --------
 
-:Author: `Martin Bless <martin.bless@mbless.de>
+:Author: `Martin Bless <martin.bless@mbless.de>`__
 
-Scrap
-=====
+Some Scrap
+==========
 
 Hello world!
 
