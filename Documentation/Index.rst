@@ -13,7 +13,7 @@ This is some PHP code:
 
 See the buildinfo_ 
 
-See the `buildinfo <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/_buildinfo/>`_
+.. See the `buildinfo <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/_buildinfo/>`_
 
 See the `buildinfo <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/_buildinfo/>`__
 
