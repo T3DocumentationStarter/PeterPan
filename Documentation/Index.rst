@@ -6,7 +6,8 @@
 My Public Info Project
 ======================
 
-:Author: `Martin Bless <martin.bless@mbless.de>`__
+:Author:    `Martin Bless <martin.bless@mbless.de>`__
+:Rendered:  |today|
 
 .. note::
 
