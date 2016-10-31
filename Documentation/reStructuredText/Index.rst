@@ -95,7 +95,7 @@ Reference Documentation
 
 -  `An Introduction to reStructuredText <http://docutils.sourceforge.net/docs/ref/rst/introduction.html>`_
 
-    including the Goals and History of reStructuredText
+   including the Goals and History of reStructuredText
 
 
 -  `reStructuredText Markup Specification <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html>`_
