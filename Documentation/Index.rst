@@ -32,7 +32,7 @@ My Public Info Project
 
 :Writing here:    `My Name <my.name@gmail.com>`__
 :Rendered:        |today|
-:Buildinfo:       `buildinfo <buildinfo_>`
+:Buildinfo:       `buildinfo <_buildinfo>`_
 
 
 .. toctree::
