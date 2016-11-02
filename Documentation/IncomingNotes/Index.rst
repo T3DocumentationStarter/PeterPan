@@ -6,6 +6,16 @@ Incoming Notes
 ==============
 
 
+.. The contents directive:
+   See http://docutils.sourceforge.net/docs/ref/rst/directives.html#table-of-contents
+
+**Contents:**
+
+.. contents::
+   :backlinks:
+   :local:
+
+
 English: Capitalization in Titles
 =================================
 
