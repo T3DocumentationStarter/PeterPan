@@ -9,7 +9,7 @@ Incoming Notes
 .. The contents directive:
    See http://docutils.sourceforge.net/docs/ref/rst/directives.html#table-of-contents
 
-**Contents:**
+**Contents of this chapter:**
 
 .. contents::
    :backlinks: entry
