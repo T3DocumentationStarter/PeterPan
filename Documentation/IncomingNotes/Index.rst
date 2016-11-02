@@ -13,9 +13,9 @@ English: Capitalization in Titles
 
 My question at Slack in channel WriteTheDocs/General:
 
-   Let's say I (from de) want to write documentation for en_US. 
+   "Let's say I (from de) want to write documentation for en_US. 
    What are the rules about what words should be capitalized in headlines? 
-   Can you point me to some relevant information?
+   Can you point me to some relevant information?"
 
 From the answers:
 
