@@ -33,7 +33,7 @@ My Public Info Project
 :Writing here:    `Martin Bless <martin.bless@mbless.de>`__
 :Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_
-:Other starter projects: `overview <..>`__
+:Others: `overview <..>`__
 
 
 .. toctree::
