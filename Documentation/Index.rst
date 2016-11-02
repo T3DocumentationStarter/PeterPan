@@ -40,6 +40,7 @@ My Public Info Project
    :hidden:
 
    HelloWorld/Index
+   IncomingNotes/Index
    Hyperlinks/Index
    reStructuredText/Index
 
