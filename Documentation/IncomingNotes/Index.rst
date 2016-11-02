@@ -6,8 +6,8 @@ Incoming Notes
 ==============
 
 
-Writing English: Capitalization in Titles
-=========================================
+English: Capitalization in Titles
+=================================
 
 2016-11-02
 
