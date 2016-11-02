@@ -12,7 +12,7 @@ Incoming Notes
 **Contents:**
 
 .. contents::
-   :backlinks:
+   :backlinks: entry
    :local:
 
 
