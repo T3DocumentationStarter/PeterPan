@@ -20,7 +20,7 @@ Documentation Guide
 
 -  "WriteTheDocs" has an impressive `documentation guide <http://www.writethedocs.org/guide/>`__
    .. image:: http://www.writethedocs.org/_static/sticker-wtd-colors.png
-      :scale: 25%
+      :scale: 25 %
 
 What to document?
 =================
