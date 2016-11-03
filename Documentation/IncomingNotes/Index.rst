@@ -40,6 +40,10 @@ What do we have on docs.typo3.org?
 
 #.  Home page. Has "Edit me on Github" button as well.
 
+#.  The most important part of the menu:
+
+    .. figure:: 017.png
+
 
 
 Documentation Guide(s)
