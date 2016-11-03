@@ -15,8 +15,8 @@ Incoming Notes
    :backlinks: entry
    :local:
 
-Documentation Guide
-===================
+Documentation Guide(s)
+======================
 
 .. http://docutils.sourceforge.net/docs/ref/rst/directives.html#image
 
