@@ -21,9 +21,9 @@
 .. The following, first section (= headline) is the 'Document Title'.
 
 
-======================
-My Public Info Project
-======================
+==========================
+My Public Info Project 001
+==========================
 
 
 .. The following is 'field list' which is rendered as a horizontal table.
