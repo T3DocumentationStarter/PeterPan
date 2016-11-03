@@ -20,11 +20,11 @@ Documentation Guide
 
 .. http://docutils.sourceforge.net/docs/ref/rst/directives.html#image
 
--  "WriteTheDocs" has an impressive `documentation guide <http://www.writethedocs.org/guide/>`__
+-  `Documentation guide <http://www.writethedocs.org/guide/>`__ of WriteTheDocs
 
    .. image:: http://www.writethedocs.org/_static/sticker-wtd-colors.png
-      :width: 100px
-      :scale: 75 %
+      :width: 50px
+      :target: http://www.writethedocs.org/guide/
 
 
 
