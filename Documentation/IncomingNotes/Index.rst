@@ -54,6 +54,15 @@ What do we have on docs.typo3.org?
     .. figure:: 017.png
 
 
+Tools
+-----
+
+-  screenshots tools
+-  Thunderbird as an HTML editor that allows to directly import screenshots
+-  ...
+
+
+
 
 Documentation Guide(s)
 ======================
