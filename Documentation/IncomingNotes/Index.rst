@@ -15,6 +15,33 @@ Incoming Notes
    :backlinks: entry
    :local:
 
+Session at #T3CRR
+=================
+
+Show docs.typo3.org
+-------------------
+
+Looking at a single page
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _t3SphinxThemeRtd: https://github.com/TYPO3-Documentation/t3SphinxThemeRtd
+
+#. We have a responsive theme called t3SphinxThemeRtd_.
+
+#.  Left pane: toplink, projectlink, projectwide search for wordstems, with
+    autocompletion, hierarchial menu, related links
+    
+#.  Related link: versions, localized versions, ajax driven, pdf link, project links
+
+#.  content pane: Notice the "Edit me on Github" button!
+
+What do we have on docs.typo3.org?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#.  Home page. Has "Edit me on Github" button as well.
+
+
+
 Documentation Guide(s)
 ======================
 
