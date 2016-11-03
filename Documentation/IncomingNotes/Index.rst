@@ -18,11 +18,15 @@ Incoming Notes
 Documentation Guide
 ===================
 
+.. http://docutils.sourceforge.net/docs/ref/rst/directives.html#image
+
 -  "WriteTheDocs" has an impressive `documentation guide <http://www.writethedocs.org/guide/>`__
 
    .. image:: http://www.writethedocs.org/_static/sticker-wtd-colors.png
       :width: 100px
       :scale: 75 %
+
+
 
 What to document?
 =================
@@ -30,6 +34,8 @@ What to document?
 -  notes from a #T3CRR session
 -  a page from the `TYPO3 Wiki <https://wiki.typo3.org/>`_
 -  ...
+
+
 
 English: Capitalization in Titles
 =================================
