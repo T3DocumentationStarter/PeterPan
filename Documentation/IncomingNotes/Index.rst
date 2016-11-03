@@ -18,6 +18,15 @@ Incoming Notes
 Session at #T3CRR
 =================
 
+Plan:
+
+-  show docs.typo3.org for a few minutes
+-  show the drafts section
+-  show how to take simple notes
+-  give participants their own repo
+-  start writing, teach ReST
+
+
 Show docs.typo3.org
 -------------------
 
@@ -55,7 +64,7 @@ Documentation Guide(s)
 
 .. |RTDlogo| image:: http://www.writethedocs.org/_static/sticker-wtd-colors.png
    :width: 50px
-   :target: http://www.writethedocs.org/guide/
+   :target: http://www.writethedocs.org/
 
 
 
