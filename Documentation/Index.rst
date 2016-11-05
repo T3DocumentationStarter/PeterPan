@@ -39,9 +39,9 @@ My Public Info Project 001
 .. toctree::
    :hidden:
 
-   HowToPublishExtensions/Index
    HelloWorld/Index
    IncomingNotes/Index
    Hyperlinks/Index
    reStructuredText/Index
+   HowToPublishExtensions/Index
 
