@@ -7,5 +7,4 @@
          How to publish extensions
 ==============================================
 
-
-`dies ist Text in Default-Rolle`
+((this text needs to be formatted))
