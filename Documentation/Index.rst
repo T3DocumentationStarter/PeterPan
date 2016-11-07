@@ -117,7 +117,7 @@ Who is where?
    ManualsInProgress/Index
    AgendaDocumentation/Index
    T3DocTeam/Index
-   HelloWorld/Index
+   TeachingDocs/Index
    IncomingNotes/Index
    Hyperlinks/Index
    reStructuredText/Index
