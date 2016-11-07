@@ -114,7 +114,9 @@ Who is where?
 .. toctree::
    :hidden:
 
-   HowToPublishExtensions/Index
+   ManualsInProgress/Index
+   AgendDocumentation/Index
+   T3DocTeam/Index
    HelloWorld/Index
    IncomingNotes/Index
    Hyperlinks/Index
