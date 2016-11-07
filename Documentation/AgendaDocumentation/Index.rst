@@ -20,6 +20,8 @@ Unsorted tasks
 -  Continue with the "Render Documentation Guide" https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/
 -  Continue with "rst-ing with PhpStorm" https://docs.typo3.org/typo3cms/drafts/github/wmdbsystems/RSTingWithPhpStormGuide/
 -  Continue with https://docs.typo3.org/typo3cms/drafts/github/wmdbsystems/TYPO3ComposerGuide/
+-  Q: How do I set up PhpStorm for reST? A: See the `answer (with screenshots) at 
+   <https://github.com/T3DocumentationStarter/Public-Info-015/issues/1>`__
 
 
 How to do documentation with Github
