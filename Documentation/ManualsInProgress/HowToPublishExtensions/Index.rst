@@ -1,0 +1,115 @@
+
+
+.. include:: ../Includes.txt
+
+
+==============================================
+         How to publish extensions
+==============================================
+
+((this text needs to be formatted))
+
+
+http://typo3worx.eu/2016/07/5-ways-to-publish-a-typo3-extension/
+
+5 Ways to Publish a TYPO3 Extension
+By Marcus Schwemer in Tools, TYPO3 CMS, TYPO3 Extensions
+
+typo3worx_publish-extension_blog
+The TYPO3 Extension Repository (TER) is the central place where you should publish your extensions, if you want to get a broader audience.  It is the first stop for everybody, who wants to extend the core functionality of TYPO3. There are at least five ways to put your extension online.
+
+Prerequisites and recommendations
+Before going into the details of publishing an extension, I’ll show you the must-haves, should-haves and could-haves.
+Prerequisite 1 – A typo3.org Account
+The first pre-requisite is a valid TYPO3.org account. You must register your account at http://typo3.org . The registration form is a little bit hidden. You must click on „Login“ at the upper right corner of the page, next to the search form. The next step is to click at „Sign up!“. The login form changes to a minimal registration form, where you have to provide your data:
+
+    name
+    email-address
+    username
+    password (2 times)
+
+typo3_account-register-01
+
+TYPO3.org Login Dialog
+typo3_account-register-02
+
+TYPO3.org SignUp Dialog
+Prerequisite 2 – A valid extension key
+After the successful registration it’s time to register an extension key. The extension key is a name for your extension, which is unique within the TYPO3 extension universe. It should be registered before the start of extension development, because you will need it at several places in the code. If it’s already registered, you must refactor the whole code in order to use the other, new extension key.
+If your extension key is registered and the extension is ready, you can jump over to the extension repository and upload your extension. But before I’ll show you the process, I recommend to take two more steps.
+Should have – Provide a manual
+This is no requirement to publish a TYPO3 extension to TER, but it is highly appreciated by most, even if not all, TYPO3 integrators if there is a least a basic manual. Tell the (TYPO3) world
+
+    what’s your extension is doing
+    how to install and configure it
+    how it is used by editors
+
+For your targeted audience it is really hard to scan through all the TypoScript in the TypoScript object browser, check the extension settings in the extension manager and to guess about the the meaning of flexform values in the plugin settings. If you can make your extension easy to use through a manual, please do it! I know some integrators who only evaluate and use an extension if there is at least a basic manual. If you use the RST format and stick to TYPO3 conventions, it will automatically be rendered on http://docs.typo3.org for an easy access. 
+Could have – Bugtracker and public repository
+Some kind of bugtracker and public repository makes really sense, if you like to receive feedback and contributions. The TYPO3 project provides a bugtracker on http://forge.typo3.org which you can use for free. You just have to register your extension key a second time, because the TER is not connected to Forge. The url for the registration is: https://forge.typo3.org/start/create_project
+TYPO3 Extension - Register on forge.typo3.org
+
+TYPO3 Extension – Register on forge.typo3.org
+If you like to use this, you must login with your credentials provided in the section „Prerequisite 1“. Any other means for such communication will also fit, like Github, Bitbucket or a self-hosted gitlab instance. But remember the easier the login to your system is, the more feedback you will get.
+So enough of the prerequisites and the “small talk” … now I’ll show you several ways to push your extension into the TYPO3 Extension Repository (TER).
+Five ways to push your extension to TYPO3 Extension Repository
+TYPO3.org: Direct Upload to Extension-Repository
+Using the TYPO3 Extension Repository directly does not need any other extensions, accounts or whatever. You can just pack your extension as a zip package. It is necessary that the version number in the filename matches the version number in the file „ext_emconf.php“. For your convenience several command line and gui based proceedings are shown right before the upload form.
+typo3_extension-upload-01
+
+Upload an extension – Step 1
+typo3_extension-upload-02
+
+Upload an extension – Create package and upload
+In the upload form, there is a field „Description for this version“. Please provide here a good description, of what has changed and what has been approved. If it is no security update for many persons this is a reason to have a look at the extension, even if they are not using it. For myself it is a criteria, whether I will have a look at for the next version of the extension roundups.
+EXT:extension-uploader
+The extension „extension-uploader“ is an extension which allows you to upload your extension right from a backend module. It was designed for TYPO3 versions 6.0 up to 6.2.99. For TYPO3 administrators it would be a nice solution, because it is done via a backend module, which right next to the mouse pointer … if it would work. I tested it with several php versions but I did not succeed.😔
+typo3_extension-uploader-ext-01 typo3_extension-uploader-ext-02
+At least this is an good or bad example how the publishing of an extension should not be done. I can get very few information via the TER, can download it, but when it comes to an issue, there is no
+
+    complete list of requirements in the ext_emconf.php (at least php version is missing)
+    manual, where I can find the requirements and howtos
+    bugtracker, where I can report issues to the author
+
+I mention the extension here, because there might be a working update somewhen in the future and to show you how an extension upload should not be done. All information is available on https://typo3.org/extensions/repository/view/extension_uploader or in the source code of the extension. 
+TYPO3 Extension Utilities t3xutils
+The t3xutils is a phar package which provides many action in order to handle t3x files. t3x is / was the ancient TYPO3 eXtension format. One of these actions is to upload an extension to the TER. If you have a system, which has a console, where you can execute php commands this is probably a very convenient solution for you. The tool can be used right after downloading and making it executable.
+Commandline Option of the T3Xutils
+
+Commandline Option of the T3Xutils
+A small drawback can be, that you must provide your complete credentials in the command line, as everybody who has access to your account gets the username and the password of your TYPO3.org account. But you are lucky, if you use zsh and have the option „HIST_IGNORE_SPACE“ enabled. With this each command with a leading space character will not be written to the history file of zsh.
+The tool is available at github via the link: https://github.com/etobi/Typo3ExtensionUtils. Thanks to Tobias Liebig (@etobi) for coding this tool.
+Automatic release via github and a git tag
+Claus Due (@namelesscoder) provides a nice service at http://release.namelesscoder.net/. This website acts as a gateway between a public github repository and the TYPO3 TER. Adding a webhook to your github repository is enough to publish an extension. Each time a tag is pushed to the repo, the extension will be published to TER. A comprehensive howto is provided on the website.
+I cannot imagine a solution which is more convenient and more integrated in your workflow as an extension developer: If you are done with the last tasks, the extension is tagged, the tag is pushed to git and the extension will be published automagically. The manual publishing process with creating a zip file and uploading it on typo3.org is obsolete.
+But this has two small drawbacks:
+
+    Your credentials for TYPO3.org are transmitted to Claus’ site. He promises that these requests will never be logged.
+    It is bound to github, because is uses githubs API
+
+[Update July 27th, 2016]
+Claus clarified via Twitter that there cannot be any credentials logged as they are arriving via http-auth.
+
+    I should point out about https://t.co/9B50ZXGBZs that credentials arrive as http-auth paramaters; nothing is stored! https://t.co/tztfR5GLeq
+    — Claus Due (@NamelessCoder) July 27, 2016
+
+[/Update]
+For the first drawback: it is possible to host such a service on a private server.
+The basis for the service of Claus is the typo3-repository-gizzle and typo3-repository-client, which are also available on github. The „official” endpoint Claus’ service, but if you like, you can set up your own release server. I scanned through the docs and it looked quite easy to setup such an service, following these instructions. But keep in mind that also in the private setup the TYPO3.org credentials are sent to the server.
+Using travis-ci.org
+Another way to publish is using the continuos integration service travis-ci.org. Helmut Hummel (@helhum) wrote two articles about howto setup your extensions using travis:
+
+    Testing your TYPO3 extensions on Travis CI
+    Automatically upload TYPO3 extensions to TER with Travis CI
+
+As all these alternatives rely also on github, they are not really a solution for the second drawback: Relying on github. I can imagine two reasons:
+
+    you do not want to move your complete git infrastucture and repositories to github
+    you do not want to use github at all
+
+Looking at the first scenario there is the possibility to use github just as an mirror of your main repository. Many big open source projects do this, like TYPO3 for example. This is simply achieved by implementing a post-receive hook in your git configuration. This is described in https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks#Server-Side-Hooks
+Other git hosting providers
+For those who do not want to or can not use github and need to use other services, I have one bad news and two good news. The bad news first: I did not find any automatic TER publishing solution using Bitbucket, gitlab or Jenkins.
+The first good news is, that the TYPO3 repository client has command line wrappers for upoading an extension. If a CI environment (like Jenkins or gitlab CI) is able to run these commands it should not be that hard to publish an extension automatically.The second good new is, that there is a public SOAP interface for the TYPO3 Extension Repository. All of the already mentioned solutions use this API. You can find it under the URL https://typo3.org/wsdl/tx_ter_wsdl.php. If you want to explore it, you can use the software SmartUI by SmartBear (Link: https://www.soapui.org/). Thanks to Jigal van Hemert (@jigalvh) for the hint.
+Conclusion
+If you know about another way to publish a TYPO3 extension to TER … please let me know. I would be really happy to cover other git hosting providers or ci environments in another blog post. So just drop me a note.
