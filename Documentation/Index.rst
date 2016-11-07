@@ -115,7 +115,7 @@ Who is where?
    :hidden:
 
    ManualsInProgress/Index
-   AgendDocumentation/Index
+   AgendaDocumentation/Index
    T3DocTeam/Index
    HelloWorld/Index
    IncomingNotes/Index
