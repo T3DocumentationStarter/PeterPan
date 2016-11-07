@@ -9,6 +9,26 @@ Starter Manuals
 Who is where?
 =============
 
+.. tip::
+
+   **Please welcome the heros listed here!**
+   
+   They dare to go **Where No Developer Has Gone Before**, willing
+   to fight the most difficult and hostile reStructureText code,
+   to give some of the best words they have for TYPO3 documentation.
+   
+   May they survive!
+   
+.. tip::
+
+   You are courageous and want to belong to those daring pioneers as well? Easy!
+   Just send a message with your wish and your Github **username** (not the password! - insider joke!)
+   to the `documentation team <documentation@typo3.org>`_. Or, better, join `TYPO3 at Slack 
+   <https://forger.typo3.org/slack>`__ and enter the `documentation channel 
+   <https://typo3.slack.com/messages/typo3-documentation/>`__.
+
+The list of heros:   
+
 | `000 Master Template      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-000/>`__
 | `001 Martin Bless         <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/>`__
 | `002 Philipp Gampe        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-002/>`__
