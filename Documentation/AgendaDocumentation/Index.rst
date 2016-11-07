@@ -5,7 +5,11 @@
 The TYPO3 Documentation Agenda
 ==============================
 
-What needs to be done?!
+.. contents:: What needs to be done?!
+   :depth: 2
+   :local:
+   :backlinks: top
+
 
 Making Documentation available
 ==============================
