@@ -64,8 +64,8 @@ The list of heros:
 
 | `030 Boris Schauer        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-030/>`__
 | `031 Anja (maddy)         <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-031/>`__
-| `032  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-032/>`__
-| `033  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-033/>`__
+| `032 Wouter Wolters       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-032/>`__
+| `033 Björn Jacob          <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-033/>`__
 | `034  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-034/>`__
 | `035  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-035/>`__
 | `036  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-036/>`__
