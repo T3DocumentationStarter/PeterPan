@@ -5,4 +5,6 @@
 Teaching Docs
 =============
 
-
+.. toctree::
+   
+   StarterManuals/Index.rst
