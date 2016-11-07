@@ -2,9 +2,13 @@
 .. include:: ../Includes.txt
 
 
-========================================
-T3DocTeam - The TYPO3 Documentation Team
-========================================
+=========
+T3DocTeam
+=========
+
+-------------------------------------
+The TYPO3 Documentation Team Universe
+-------------------------------------
 
 
 .. contents:: Contents of this chapter
