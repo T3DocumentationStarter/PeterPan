@@ -2,7 +2,7 @@
 
 
 ==============================
-The TYPO3 Documentation Agenda
+Documentation Agenda
 ==============================
 
 .. contents:: What needs to be done?!
