@@ -67,8 +67,8 @@ The list of heros:
 | `032 Wouter Wolters       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-032/>`__
 | `033 Björn Jacob          <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-033/>`__
 | `034 Thomas Löffler       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-034/>`__
-| `035  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-035/>`__
-| `036  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-036/>`__
+| `035 Xavier Perseguers    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-035/>`__
+| `036 Michael Oelhof       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-036/>`__
 | `037  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-037/>`__
 | `038  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-038/>`__
 | `039  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-039/>`__
