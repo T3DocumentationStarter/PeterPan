@@ -25,6 +25,13 @@ Check whether there are open issues for the official manuals and solve them, lik
 - ...
 
 
+Process Pull Requests
+---------------------
+
+Are there open pull requests?
+Observe https://docs.typo3.org/services/GithubPullRequests/
+Become a watcher of the repositories of the official manuals at https://github.com/TYPO3-Documentation
+
 
 
 
