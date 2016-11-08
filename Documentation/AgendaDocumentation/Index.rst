@@ -11,6 +11,23 @@ Documentation Agenda
    :backlinks: top
 
 
+Tasks to be done regularly
+==========================
+
+Handle open issues
+------------------
+
+Check whether there are open issues for the official manuals and solve them, like
+
+- https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-TCA/issues
+- https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi/issues
+- https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-FileAbstractionLayer/issues
+- ...
+
+
+
+
+
 Making Documentation available
 ==============================
 
