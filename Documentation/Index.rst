@@ -35,8 +35,9 @@ My Public Info Project 001
 :Buildinfo:       `buildinfo <_buildinfo>`_
 :Others:          `overview <..>`__
 
+**Contents:**
+
 .. toctree::
-   :hidden:
 
    ManualsInProgress/Index
    AgendaDocumentation/Index
