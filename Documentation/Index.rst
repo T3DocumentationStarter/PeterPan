@@ -46,4 +46,3 @@ My Public Info Project 001
    IncomingNotes/Index
    Hyperlinks/Index
    reStructuredText/Index
-
