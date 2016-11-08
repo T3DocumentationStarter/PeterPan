@@ -61,6 +61,7 @@ Tools // Server // Installation
 ===============================
 
 -  Make sure the Javascript list of available extension manuals is correct
+
    * https://docs.typo3.org/typo3cms/extensions/
    * https://docs.typo3.org/typo3cms/extensions/extensions.js
 
