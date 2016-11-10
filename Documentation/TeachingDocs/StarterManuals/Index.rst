@@ -71,7 +71,7 @@ The list of heros:
 | `036 Michael Oelhof       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-036/>`__
 | `037 Stephan Großberndt   <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-037/>`__
 | `038 Mathias Brodala      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-038/>`__
-| `039 M-arcus (my name is THAT secret, I really can't tell) <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-039/>`__
+| `039 Marcus Müller        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-039/>`__
 
 | `040  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-040/>`__
 | `041  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
