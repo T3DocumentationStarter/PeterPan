@@ -76,7 +76,9 @@ Cronjobs
 --------
 
 -  Add a cronjob that removes the :file:`/tmp/TCT/RenderDocumentation/lockfile.json` if the
-   `RenderDocumentation` job had failed to do so. Otherwise it would take x seconds for the
-   lockfile to become outdated. Currently x is set to 3.600 seconds.
-   the moment
+   `RenderDocumentation` job had failed to do so. Otherwise it would take **x** seconds for the
+   lockfile to become outdated. Currently **x** is set to 3.600 seconds. That means, that in
+   case the buildjob dies with an unhandled exception it will take an hour until **any**
+   manual will be rendered again.
+
 
