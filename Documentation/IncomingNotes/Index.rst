@@ -15,6 +15,14 @@ Incoming Notes
    :backlinks: entry
    :local:
 
+After #T3CRR2016
+================
+
+#. The photos from our sponsor wall are now available at `flickr 
+   <http://typo3camp-rheinruhr.us14.list-manage.com/track/click?u=e71b21c03ca630cc4db995b3f&id=7849bb9229&e=358e6439a6>`__,
+   the videos will follow during the next days.
+
+
 Session at #T3CRR
 =================
 
