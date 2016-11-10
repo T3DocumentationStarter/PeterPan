@@ -81,4 +81,11 @@ Cronjobs
    case the buildjob dies with an unhandled exception it will take an hour until **any**
    manual will be rendered again.
 
+Missing features
+----------------
+
+#. :file:`Ajaxdownloads.php`: this `$knownpath` isn't correctly handled:
+   :file:`/typo3cms/drafts/github/*/`. Wildcards aren't handled yet.
+   
+
 
