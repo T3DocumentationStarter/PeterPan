@@ -51,11 +51,15 @@ Unsorted tasks
 How to do documentation with Github
 -----------------------------------
 
--  `How do I create a folder? <https://github.com/T3DocumentationStarter/Public-Info-001/issues/2>`__
--  `How can I rename a folder? <https://github.com/T3DocumentationStarter/Public-Info-001/issues/3>`__
--  `SSH doesn't work with my T3DocumentationStarter project
-   <https://github.com/T3DocumentationStarter/Public-Info-015/issues/1>`__
+These Q & A are especially important in the context of working with the
+`T3DocumentationStarter projects <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/Index.html>`__.
 
+#. `How do I create a folder? <https://github.com/T3DocumentationStarter/Public-Info-001/issues/2>`__
+#. `How can I rename a folder? <https://github.com/T3DocumentationStarter/Public-Info-001/issues/3>`__
+#. `SSH doesn't work with my T3DocumentationStarter project
+   <https://github.com/T3DocumentationStarter/Public-Info-015/issues/1>`__
+#. `How often will and when are manuals being updated on our docs.typo3.org server?
+   <https://github.com/T3DocumentationStarter/Public-Info-001/issues/4>`__
 
 Tools // Server // Installation
 ===============================
