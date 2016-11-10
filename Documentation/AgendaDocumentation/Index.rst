@@ -70,3 +70,13 @@ Tools // Server // Installation
    * https://docs.typo3.org/typo3cms/extensions/extensions.js
 
 -  Elastic Search
+
+
+Cronjobs
+--------
+
+-  Add a cronjob that removes the :file:`/tmp/TCT/RenderDocumentation/lockfile.json` if the
+   `RenderDocumentation` job had failed to do so. Otherwise it would take x seconds for the
+   lockfile to become outdated. Currently x is set to 3.600 seconds.
+   the moment
+
