@@ -137,3 +137,13 @@ From the answers:
    For example, "the" shouldn't be capitalized but I've seen 
    "How The Product Works" more than a few times. So even if you make a mistake, 
    you'll have plenty of company :) '''
+
+
+Englisch: Fachbegriffe
+======================
+
+=================================================== ====================
+en                                                  deu
+=================================================== ====================
+covering letter                                     Anschreiben
+=================================================== ====================
