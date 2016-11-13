@@ -147,3 +147,8 @@ Backslash
 | :php:`use Vendor\Extkey\Domain\Model\Abc;`
 | ``use Vendor\Extkey\Domain\Model\Abc;``
 
+Single backslash in a code-block::
+
+   use Vendor\Extkey\Domain\Model\Abc;
+   
+
