@@ -43,6 +43,7 @@ My Public Info Project 001
    AgendaDocumentation/Index
    T3DocTeam/Index
    TeachingDocs/Index
+   StyleGuides/Index
    IncomingNotes/Index
    Hyperlinks/Index
    reStructuredText/Index
