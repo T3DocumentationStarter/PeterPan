@@ -17,3 +17,12 @@ Documentation Guides
    :width: 50px
    :target: http://www.writethedocs.org/
 
+
+
+Links
+=====
+
+-  `The Writer's Handbook: Documentation Styles (writing.wisc.edu)
+   <http://writing.wisc.edu/Handbook/Documentation.html>`__
+   
+-  `Apple Style Guide 2013 (PDF) <https://help.apple.com/asg/mac/2013/ASG_2013.pdf>`__
