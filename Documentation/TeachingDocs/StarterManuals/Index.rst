@@ -73,7 +73,7 @@ The list of heros:
 | `038 Mathias Brodala      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-038/>`__
 | `039 Marcus Müller        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-039/>`__
 
-| `040 Christoper (Crissitopher) <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-040/>`__
+| `040 Christopher Stelmaszyk <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-040/>`__
 | `041  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
 | `042  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-042/>`__
 | `043  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-043/>`__
