@@ -134,3 +134,16 @@ english                                             deutsch
 =================================================== ====================
 covering letter                                     Anschreiben
 =================================================== ====================
+
+
+Testing reST Code
+=================
+
+Backslash
+---------
+
+| use Vendor\\Extkey\\Domain\\Model\\Abc;
+| `use Vendor\Extkey\Domain\Model\Abc;`
+| :php:`use Vendor\Extkey\Domain\Model\Abc;`
+| ``use Vendor\Extkey\Domain\Model\Abc;``
+
