@@ -28,6 +28,13 @@ Links
 -  `Apple Style Guide 2013 (PDF) <https://help.apple.com/asg/mac/2013/ASG_2013.pdf>`__
 
 
+Related
+=======
+
+-  `EPPO - Every page is page one <http://everypageispageone.com/>`__
+   Let the reader start reading anywhere.
+
+
 
 
 English: Capitalization in Titles
