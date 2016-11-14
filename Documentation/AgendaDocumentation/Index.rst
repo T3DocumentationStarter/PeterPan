@@ -132,7 +132,8 @@ t3SphinxThemeRtd
 See the `issues <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/issues>`__!
 Just to list some here:
 
--  Make headlines better distinguishable
+-  Make headlines better distinguishable,
+   https://twitter.com/marantern/status/798133431314026496
 
 
 
