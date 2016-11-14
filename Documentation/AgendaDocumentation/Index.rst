@@ -47,9 +47,11 @@ Unsorted tasks
 -  Q: How do I set up PhpStorm for reST? A: See the `answer (with screenshots) at 
    <https://github.com/T3DocumentationStarter/Public-Info-015/issues/1>`__
 
+-  Ask about chapter "Community Writings" (`Tweet <https://twitter.com/marantern/status/798127207306723328>`__)
 
-Extensions Ratgeber
--------------------
+
+Extensions Advisor
+------------------
 
 ((idea for a topic at docs.typo3.org))
 
@@ -132,8 +134,7 @@ t3SphinxThemeRtd
 See the `issues <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/issues>`__!
 Just to list some here:
 
--  Make headlines better distinguishable,
-   https://twitter.com/marantern/status/798133431314026496
+-  Make headlines better distinguishable (`Tweet <https://twitter.com/marantern/status/798133431314026496>`__)
 
 
 
