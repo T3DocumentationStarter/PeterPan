@@ -48,6 +48,41 @@ Unsorted tasks
    <https://github.com/T3DocumentationStarter/Public-Info-015/issues/1>`__
 
 
+Extensions Ratgeber
+-------------------
+
+((idea for a topic at docs.typo3.org))
+
+
+Extensions - and what their developers and the community says.
+
+ext:devlog
+~~~~~~~~~~
+
+2016-11-14 by François Suter at `Forge <https://forge.typo3.org/news/810>`__:
+
+   Version 3.0 released and moved to GitHub
+
+   The road to devlog version 3.0 has been long and bumpy indeed. Years ago Fabien Udriot 
+   started a brand new version for TYPO3 4.5, using ExtJS for the backend module. The work 
+   was never finished and ExtJS fell from grace. The project lay dormant for a couple of years. 
+   Then an attempt was made to base the devlog on TYPO3's logging API, but this also faltered along the way.
+
+   About last year I finally found the motivation to give the project yet another fresh start.
+   Alternating sprints and breaks, the new version was eventually ready. It is entirely rewritten, 
+   with a squeaky clean code base. The backend module relies on jQuery and DataTables for paginating,
+   searching and filtering. The "Clear log entries" feature is now available from a convenient drop-down.
+
+   The devlog also now uses a concept of log writers, which makes it possible to route devlog 
+   calls to different outputs/storages. By default, the extension provides a database and a file writer.
+
+   Last but not least, I moved the extension to GitHub. Hopefully this will help people contribute and 
+   maybe also shift ownership to someone else, as I don't feel like continuing to maintain this extension. 
+   New home: https://github.com/fsuter/devlog
+
+
+
+
 How to do documentation with Github
 -----------------------------------
 
@@ -60,6 +95,9 @@ These Q & A are especially important in the context of working with the
    <https://github.com/T3DocumentationStarter/Public-Info-015/issues/1>`__
 #. `How often will and when are manuals being updated on our docs.typo3.org server?
    <https://github.com/T3DocumentationStarter/Public-Info-001/issues/4>`__
+
+
+
 
 Tools // Server // Installation
 ===============================
@@ -87,5 +125,14 @@ Missing features
 #. :file:`Ajaxdownloads.php`: this `$knownpath` isn't correctly handled:
    :file:`/typo3cms/drafts/github/*/`. Wildcards aren't handled yet.
    
+
+t3SphinxThemeRtd
+================
+
+See the `issues <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/issues>`__!
+Just to list some here:
+
+-  Make headlines better distinguishable
+
 
 
