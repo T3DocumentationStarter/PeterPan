@@ -39,11 +39,11 @@ My Public Info Project 001
 
 .. toctree::
 
-   ManualsInProgress/Index
    AgendaDocumentation/Index
    T3DocTeam/Index
    TeachingDocs/Index
    StyleGuides/Index
    IncomingNotes/Index
+   ManualsInProgress/Index
    Hyperlinks/Index
    reStructuredText/Index
