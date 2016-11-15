@@ -5,9 +5,7 @@
 To be done
 ==============================
 
--------------------------------------
 What the T3DocTeam should be tackling
--------------------------------------
 
 .. contents:: What needs to be done?!
    :depth: 2
@@ -18,8 +16,8 @@ What the T3DocTeam should be tackling
 Tasks to be done regularly
 ==========================
 
-Handle open issues
-------------------
+Check and process open issues
+-----------------------------
 
 Check whether there are open issues for the official manuals and solve them, like
 
