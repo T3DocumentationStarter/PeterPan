@@ -99,6 +99,20 @@ These Q & A are especially important in the context of working with the
    <https://github.com/T3DocumentationStarter/Public-Info-001/issues/4>`__
 
 
+Can we make use of Gists?
+-------------------------
+
+Example Gist:
+`ActionViewhelper by Xavier, 2016-11-15 <https://gist.github.com/xperseguers/fe448a7d20aa67b2aa466d5f2faf131c>`__
+
+Leads to questions:
+① How can documentation help to provide and share viewhelpers?
+② Will Gists stay forever? I mean, as long as Github exists and the owner doesn't delete them.
+③ I you have new insights, you'll update the Gist probably?
+④ Can Gists help in creating a Viewhelper library?
+⑤ Can Gists help in creating a snippet collection?
+
+
 
 
 Tools // Server // Installation
