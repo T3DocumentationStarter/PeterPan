@@ -42,9 +42,11 @@ Move documentation
 
 Find out what documentation should be moved. Check:
 
-- https://typo3.org/ (snippets?, ...)
-- https://wiki.typo3.org/ 
+-  `TYPO3.org <https://typo3.org/>`__ ① snippets? ② ...
 
+-  `TYPO3 wiki <https://wiki.typo3.org/>`__
+   ① Harry Glatz has already noted `some ideas 
+   <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-003/>`__
 
 
 
