@@ -40,11 +40,15 @@ Move documentation
 
 Find out what documentation should be moved. Check:
 
--  `TYPO3.org <https://typo3.org/>`__ ➊ snippets? ➋ ...
+-  `TYPO3.org <https://typo3.org/>`__: We need a list: What needs to be done?
 
--  `TYPO3 wiki <https://wiki.typo3.org/>`__
-   ① Harry Glatz has already noted `some ideas 
-   <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-003/>`__
+   | ➊ snippets?
+   | ➋ ...
+
+-  `TYPO3 wiki <https://wiki.typo3.org/>`__: We need a list: What needs to be done?
+
+   | ➊ Harry Glatz has already noted `some ideas 
+     <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-003/>`__
 
 
 
@@ -119,11 +123,11 @@ Example Gist:
 `ActionViewhelper by Xavier, 2016-11-15 <https://gist.github.com/xperseguers/fe448a7d20aa67b2aa466d5f2faf131c>`__
 
 Leads to questions:
-① How can documentation help to provide and share viewhelpers?
-② Will Gists stay forever? I mean, as long as Github exists and the owner doesn't delete them.
-③ I you have new insights, you'll update the Gist probably?
-④ Can Gists help in creating a Viewhelper library?
-⑤ Can Gists help in creating a snippet collection?
+➊ How can documentation help to provide and share viewhelpers?
+➋ Will Gists stay forever? I mean, as long as Github exists and the owner doesn't delete them.
+➌ I you have new insights, you'll update the Gist probably?
+➍ Can Gists help in creating a Viewhelper library?
+➎ Can Gists help in creating a snippet collection?
 
 
 
@@ -164,7 +168,7 @@ See http://unicode-suche.de/unicode-namesearch.pl?term=negative
 
 .. code-block: none
 
-   ➊➋➌➍➎
+   ➊➋➌➍➎➏➐➑➒➓
    U+2776   ➊ 	1 	e2 9e 8a 	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE 	INVERSE CIRCLED SANS-SERIF DIGIT ONE
    U+278B 	➋ 	2 	e2 9e 8b 	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO 	INVERSE CIRCLED SANS-SERIF DIGIT TWO
    U+278C 	➌ 	3 	e2 9e 8c 	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE 	INVERSE CIRCLED SANS-SERIF DIGIT THREE
