@@ -2,8 +2,12 @@
 
 
 ==============================
-Documentation Agenda
+To be done
 ==============================
+
+-------------------------------------
+What the T3DocTeam should be tackling
+-------------------------------------
 
 .. contents:: What needs to be done?!
    :depth: 2
@@ -31,6 +35,15 @@ Process Pull Requests
 Are there open pull requests?
 Observe https://docs.typo3.org/services/GithubPullRequests/
 Become a watcher of the repositories of the official manuals at https://github.com/TYPO3-Documentation
+
+
+Move documentation
+==================
+
+Find out what documentation should be moved. Check:
+
+- https://typo3.org/ (snippets?, ...)
+- https://wiki.typo3.org/ 
 
 
 
