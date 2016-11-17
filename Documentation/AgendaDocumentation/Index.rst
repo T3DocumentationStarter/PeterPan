@@ -190,4 +190,8 @@ Just to list some here:
 -  Make headlines better distinguishable (`Tweet <https://twitter.com/marantern/status/798133431314026496>`__)
 
 
+Connect Teams
+=============
+
+-  `Calendar "TYPO3 Sprints" at typo3.org <https://typo3.org/events/typo3-sprints/>`__
 
