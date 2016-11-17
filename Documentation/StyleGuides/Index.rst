@@ -91,6 +91,10 @@ covering letter                                     Anschreiben
 =================================================== ====================
 
 
+.. include:: VariableNaming.inc.rst
+
+
+
 Variable naming
 ===============
 
