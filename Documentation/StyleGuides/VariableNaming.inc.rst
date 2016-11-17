@@ -25,3 +25,34 @@ As for the question of inclusive or non-inclusive ranges, I don't think naming i
 - first_day, last_day
 - border? wall?
 
+
+::
+
+   0       *                                    before    below   preceeding
+   1       *        first   start    minimum
+   2       *
+   3       *        last             maximum   
+   4       *                stop                after     above   following
+   
+   prev - current - next
+   
+
+Context: personal, "throwaway" variable, local
+----------------------------------------------
+
+inclusive: vmin to vmax
+
+exclusive: vminn to vmaxx
+   
+Example::
+
+   # Thinking of "year 2016" as the legal range
+   vminn = "2015-12-31"
+   vmin  = "2016-01-01"
+   vmax  = "2016-12-31"
+   vmaxx = "2017-01-01"
+   
+   resultDict = [k,v for k,v in dates if v >  vminn and v <  vmaxx]
+   resultDict = [k,v for k,v in dates if v >= vmin  and v <= vmax ]
+   
+      
