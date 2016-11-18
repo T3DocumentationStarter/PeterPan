@@ -196,12 +196,11 @@ Connect Teams
 -  `Calendar "TYPO3 Sprints" at typo3.org <https://typo3.org/events/typo3-sprints/>`__
 
 
-============
-To Be Done 2
-============
+
+More to be done
+===============
 
 .. toctree::
-   :hidden:
    
    ToBeDone-2016-11-18.rst
    
