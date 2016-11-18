@@ -8,6 +8,6 @@ Skills
 
 
 -  `A beginner’s guide to writing documentation
-   <>`__ by Eric Holscher
+   <http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>`__ by Eric Holscher
 
-   .. image:: xxx.png
+   .. image:: 040.png
