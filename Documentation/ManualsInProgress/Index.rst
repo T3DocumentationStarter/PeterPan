@@ -6,7 +6,7 @@ Manuals in Progress
 ...
 
 
-.. toctree::
+.. toctree: :
    :hidden:
    
    HowToPublishExtensions/Index
