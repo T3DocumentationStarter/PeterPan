@@ -46,14 +46,11 @@ Hi Stephan @grossberndts, thanks for caring!
 (3) Xavier @xperseguers is the expert for ext:documentation
 (4) the upcoming toolchain 'RenderDocumentation' is at work for the manuals that already have the new theme. That toolchain rewrites the html files of manuals on the server so that ALL manuals use the SAME static files at (absolute!) `/t3SphinxThemeRtd/3.6.0/css` and so on.
 (5) If specified in `buildsettings.sh`for a manual the toolchain creates a *.zip archive for download and offline use. In there is the HTML and PDF version. In this case of the download package the HTML is complete. It has all the static files included with fonts, js, css and so and does not reference anything external.
- GitHub
-marble/typo3-docs-typo3-org-resources
-typo3-docs-typo3-org-resources - Resources of docs.typo3.org: fonts, css, js, ... 
- 
- 
+
 
 Martin Bless	[7:16 PM]  
 Example:
+
 - https://docs.typo3.org/typo3cms/extensions/core/8-dev/
 - https://docs.typo3.org/typo3cms/extensions/core/packages/core-8-dev-default.zip
 
