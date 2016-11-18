@@ -35,6 +35,9 @@ My Public Info Project 001
 :Buildinfo:       `buildinfo <_buildinfo>`_
 :Others:          `overview <..>`__
 
+`Rebuild! <https://docs.typo3.org/~mbless/github.com/T3DocumentationStarter/Public-Info-001.git.make/request_rebuild.php>`__
+
+
 **Contents:**
 
 .. toctree::
