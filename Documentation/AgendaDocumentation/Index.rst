@@ -195,6 +195,10 @@ Connect Teams
 
 -  `Calendar "TYPO3 Sprints" at typo3.org <https://typo3.org/events/typo3-sprints/>`__
 
+StackOverflow
+=============
+
+See https://github.com/T3DocumentationStarter/Public-Info-009/
 
 
 More to be done
