@@ -91,4 +91,12 @@ covering letter                                     Anschreiben
 =================================================== ====================
 
 
+Commit Messages
+===============
+
+-  http://chris.beams.io/posts/git-commit/#imperative !!!
+
+
 .. include:: VariableNaming.inc.rst
+
+
