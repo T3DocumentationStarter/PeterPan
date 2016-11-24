@@ -201,6 +201,17 @@ StackOverflow
 See https://github.com/T3DocumentationStarter/Public-Info-009/
 
 
+Understanding ...
+=================
+
+- cHash
+- optionSplit
+- TYPO3 caching
+- typolink
+- ...
+
+
+
 More to be done
 ===============
 
