@@ -82,8 +82,6 @@ What to document?
 
 
 
-
-
 Testing reST Code
 =================
 
@@ -99,4 +97,11 @@ Single backslash in a code-block::
 
    use Vendor\Extkey\Domain\Model\Abc;
    
+More
+====
+
+.. toctree::
+   :hidden:
+   
+   AboutHighlighting/Index
 
