@@ -49,6 +49,7 @@ Find out what documentation should be moved. Check:
 
    | ➊ Harry Glatz has already noted `some ideas 
      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-003/>`__
+   | ➋ Release notes like `this one <https://wiki.typo3.org/TYPO3_CMS_7.6.14>`__  
 
 
 
