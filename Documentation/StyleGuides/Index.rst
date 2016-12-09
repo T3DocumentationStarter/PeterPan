@@ -100,6 +100,9 @@ Scientific Or Technical Writing For Non-native English Speakers
 -  `5 Ways To Improve Scientific Writing For Non-native English Speakers
    <http://www.nextscientist.com/scientific-writing-non-native-english-speakers/>`__
    
+-  `50 Essential Resources for ESL Students
+   <http://oedb.org/ilibrarian/50_essential_resources_for_esl_students/>`__   
+   
 -   https://www.google.de/?gfe_rd=cr&ei=X8lKWKKpKZGQ8QfDqJXwBA#q=What%20are%20the%20%EF%BB%BF%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0lessons%20learned%EF%BB%BF%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20for%20helping%20non-native%20speakers%20write%20clear%20technical%20English%3F   
 
 
