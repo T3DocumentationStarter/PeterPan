@@ -105,8 +105,12 @@ Scientific Or Technical Writing For Non-native English Speakers
    
 -  `What are the ﻿⁠⁠⁠⁠lessons learned﻿⁠⁠⁠⁠ for helping non-native speakers write clear technical English?`__ 
 
+-   Editing the Work of Non-Native English Speakers [`On-Line Event`_], Youtube_
+
 __ https://www.google.de/?gfe_rd=cr&ei=X8lKWKKpKZGQ8QfDqJXwBA#q=What%20are%20the%20%EF%BB%BF%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0lessons%20learned%EF%BB%BF%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%20for%20helping%20non-native%20speakers%20write%20clear%20technical%20English%3F   
 
+.. _On-Line Event: https://single-sourcing.com/events/2016/10/editing-the-work-of-non-native-english-speakers/
+.. _Youtube: https://www.youtube.com/watch?v=gBTIQ5SnfPk
 
 Commit Messages
 ===============
