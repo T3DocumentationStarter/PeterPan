@@ -129,8 +129,9 @@ Chrome DevTools
 
 `How to set breakpoints <https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints>`__
 
-.. figure:: xx.png
+.. figure:: 064.png
    :target: https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints
+   :class:  with-border
    
 Imperative style is used.
 
