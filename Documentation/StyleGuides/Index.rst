@@ -121,3 +121,19 @@ Commit Messages
 .. include:: VariableNaming.inc.rst
 
 
+Good Examples Of Technical Writing
+==================================
+
+Chrome DevTools
+---------------
+
+`How to set breakpoints <https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints>`__
+
+.. figure:: xx.png
+   :target: https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints
+   
+Imperative style is used.
+
+   
+
+
