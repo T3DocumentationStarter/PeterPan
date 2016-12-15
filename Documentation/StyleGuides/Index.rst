@@ -27,6 +27,8 @@ Links
    
 -  `Apple Style Guide 2013 (PDF) <https://help.apple.com/asg/mac/2013/ASG_2013.pdf>`__
 
+-  http://www.chicagomanualofstyle.org/home.html
+
 
 Related
 =======
