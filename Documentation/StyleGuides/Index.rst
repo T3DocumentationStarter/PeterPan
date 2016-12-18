@@ -137,6 +137,18 @@ Chrome DevTools
    
 Imperative style is used.
 
+
+swagger.io
+----------
+
+https://swagger.io / https://github.com/OAI/OpenAPI-Specification/
+
+   OpenAPI Specification
+   (fka Swagger RESTful API Documentation Specification)
+   Version 2.0
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", 
+   "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
    
-
-
+   The Swagger specification is licensed under The Apache License, Version 2.0.
+   
