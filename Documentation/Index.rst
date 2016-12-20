@@ -43,6 +43,7 @@ My Public Info Project 001
 .. toctree::
 
    AgendaDocumentation/Index
+   T3DocsREST/Index
    T3DocTeam/Index
    TeachingDocs/Index
    StyleGuides/Index
