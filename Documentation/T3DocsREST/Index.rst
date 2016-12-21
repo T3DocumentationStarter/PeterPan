@@ -21,7 +21,11 @@ Microservices
 
 -  `Crafting Effective Microservices in Python by Rafael Caricio - 1 Dec 2016 (Zalando Technologies)
    <https://tech.zalando.com/blog/crafting-effective-microservices-in-python/>`__
+   
+Connexion
+---------
 
+- https://connexion.readthedocs.io/, `Repo at Github <https://github.com/zalando/connexion>`__
 
 RESTful API
 ===========
