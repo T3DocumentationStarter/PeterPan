@@ -8,12 +8,12 @@ ReST Tryouts
 Wanted: Inline code starting with blanks
 ========================================
 
-See also: Unicode search for "space": http://unicode-suche.de/unicode-namesearch.pl?term=space
+See also: `Unicode search for "space"<http://unicode-suche.de/unicode-namesearch.pl?term=space>`__
 
 Using U+0020 SPACE
 ------------------
 
-- ``:literal:`\ abc``` → :literal:`\ abc`
+- ``:literal:`\ abc``` → :literal:`\ abc` parsing works, but no blank in output
 - ```\ abc``` → `\ abc`
 - \`\` abc\`\` → ``\ abc``
 
