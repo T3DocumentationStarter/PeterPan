@@ -8,7 +8,7 @@ ReST Tryouts
 Wanted: Inline code starting with blanks
 ========================================
 
-See also: `Unicode search for "space"<http://unicode-suche.de/unicode-namesearch.pl?term=space>`__
+See also: `Unicode search for "space" <http://unicode-suche.de/unicode-namesearch.pl?term=space>`__
 
 Using U+0020 SPACE
 ------------------
