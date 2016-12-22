@@ -17,12 +17,16 @@ Using U+0020 SPACE
 - ```\ abc``` → `\ abc`
 - \`\` abc\`\` → ``\ abc``
 
+**Failure!**
+
 Using U+00A0 NO-BREAK SPACE
 ---------------------------
 
 - ``:literal:``` abc` → :literal:` abc`
 - ``` abc``` → ` abc`
-- '' abc'' → `` abc``
+- \`\` abc\`\` → `` abc``
+
+**Failure!**
 
 Using U+2420 SYMBOL FOR SPACE
 -----------------------------
@@ -31,4 +35,5 @@ Using U+2420 SYMBOL FOR SPACE
 - ```␠abc``` → `␠abc`
 - \`\`␠abc\`\` → ``␠abc``
 
+**Success!**
 
