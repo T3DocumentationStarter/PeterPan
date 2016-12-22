@@ -5,10 +5,10 @@
 ReST Tryouts
 ============
 
-Inline code with blanks at the beginning
+Wanted: Inline code starting with blanks
 ========================================
 
-Search Unicode for "space": http://unicode-suche.de/unicode-namesearch.pl?term=space
+See also: Unicode search for "space": http://unicode-suche.de/unicode-namesearch.pl?term=space
 
 Using U+0020 SPACE
 ------------------
