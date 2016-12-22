@@ -49,5 +49,6 @@ My Public Info Project 001
    StyleGuides/Index
    IncomingNotes/Index
    ManualsInProgress/Index
+   ReSTlings/Index
    Hyperlinks/Index
    reStructuredText/Index
