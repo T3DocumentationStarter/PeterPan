@@ -25,15 +25,16 @@ Microservices
 Connexion
 ---------
 
-- https://connexion.readthedocs.io/, `Repo at Github <https://github.com/zalando/connexion>`__,
-  `Connexion Example Repo <https://github.com/hjacobs/connexion-example>`__, private investigations
-  `explore_connexion` at mbnas.
+-  https://connexion.readthedocs.io/, `Repo at Github <https://github.com/zalando/connexion>`__,
+   `Connexion Example Repo <https://github.com/hjacobs/connexion-example>`__, private investigations
+   `explore_connexion` at mbnas.
 
 Open API Initiative (OAI)
 =========================
 
-- https://www.openapis.org/
-- http://swagger.io/
+-  https://www.openapis.org/
+-  http://swagger.io/introducing-the-open-api-initiative/
+-  http://swagger.io/
 
 
 RESTful API
