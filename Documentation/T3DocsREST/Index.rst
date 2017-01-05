@@ -37,6 +37,11 @@ Open API Initiative (OAI)
 -  http://swagger.io/
 
 
+More:
+
+   `OData (Open Data Protocol) <http://www.odata.org/>`__
+   is an OASIS standard that defines a set of best practices for building and consuming RESTful APIs. 
+
 RESTful API
 ===========
 
