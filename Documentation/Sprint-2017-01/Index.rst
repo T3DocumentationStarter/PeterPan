@@ -12,3 +12,6 @@ Topics
 -  Show Swagger
 -  Prepare more T3DocStarter projects
 
+**Attention**
+
+Organize `/home/mbless/public_html/t3SphinxThemeRtd`!!!
