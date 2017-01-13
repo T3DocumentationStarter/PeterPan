@@ -42,6 +42,7 @@ My Public Info Project 001
 
 .. toctree::
 
+   Sprint-2017-01/Index
    AgendaDocumentation/Index
    T3DocsREST/Index
    T3DocTeam/Index
