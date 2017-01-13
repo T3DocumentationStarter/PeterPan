@@ -81,7 +81,8 @@ What to document?
 -  notes from a #T3CRR session
 -  a page from the `TYPO3 Wiki <https://wiki.typo3.org/>`_
 -  ...
-
+-  PIP install from Github
+   http://stackoverflow.com/questions/20101834/pip-install-from-github-repo-branch
 
 
 Testing reST Code
