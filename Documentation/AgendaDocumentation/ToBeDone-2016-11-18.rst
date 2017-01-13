@@ -39,7 +39,8 @@ if that TYPO3 site is on HTTP you get the manual displayed in the frame without 
 [6:11]  
 so you get an outdated local version with external links. hooray
 
-Martin Bless	[7:10 PM]  
+.. Martin Bless [7:10 PM]  
+
 Hi Stephan @grossberndts, thanks for caring!
 (1) I've replaced http: by https, 
 (2) the file is now at Github, so people can send pull requests: https://goo.gl/JEQ3DU
