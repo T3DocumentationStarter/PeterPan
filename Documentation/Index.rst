@@ -40,6 +40,7 @@ My Public Info Project 001
 
 **Contents:**
 
+.. rst-class:: compact
 .. toctree::
 
    Sprint-2017-01/Index
