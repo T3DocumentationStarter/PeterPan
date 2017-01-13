@@ -9,11 +9,13 @@ Incoming Notes
 .. The contents directive:
    See http://docutils.sourceforge.net/docs/ref/rst/directives.html#table-of-contents
 
-**Contents of this chapter:**
+**On this page:**
 
+.. rst-class: compact
 .. contents::
    :backlinks: entry
    :local:
+   :class: compact2
 
 After #T3CRR2016
 ================
