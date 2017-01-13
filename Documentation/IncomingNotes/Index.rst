@@ -15,7 +15,7 @@ Incoming Notes
 .. contents::
    :backlinks: entry
    :local:
-   :class: compact2
+   :class: compactlist
 
 After #T3CRR2016
 ================
