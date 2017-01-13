@@ -217,6 +217,12 @@ Understanding ...
 More to be done
 ===============
 
+-  Tell people about css class `compactlist`
+
+
+More to be done
+===============
+
 .. toctree::
    
    ToBeDone-2016-11-18.rst
