@@ -11,6 +11,7 @@ What the T3DocTeam should be tackling
    :depth: 2
    :local:
    :backlinks: top
+   :class: compactlist
 
 
 Tasks to be done regularly
