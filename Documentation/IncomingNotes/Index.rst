@@ -83,6 +83,9 @@ What to document?
 -  ...
 -  PIP install from Github
    http://stackoverflow.com/questions/20101834/pip-install-from-github-repo-branch
+   
+   Example:
+   pip install https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/archive/master.zip
 
 
 Testing reST Code
