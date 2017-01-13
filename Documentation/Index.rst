@@ -41,7 +41,6 @@ My Public Info Project 001
 **Contents:**
 
 .. toctree::
-   :class: compact      
 
    Sprint-2017-01/Index
    AgendaDocumentation/Index
