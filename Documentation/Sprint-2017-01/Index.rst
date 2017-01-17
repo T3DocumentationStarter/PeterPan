@@ -33,17 +33,21 @@ Wiki: Benefits and Problems
 Plan about the Wiki
 -------------------
 - so the plan is to move Wiki content to Git-versioned Documentation projects
-- watch this successful example: 
-Let me sho
+- watch this successful example:
 
-Links
------
+  - https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/
+  - this had been in the Wiki before
+  - mattes had this intermediate version:
+    https://docs.typo3.org/typo3cms/drafts/
+
+
+Demonstration
+-------------
+- Let me show you a practical example.
+- At breakfast we talked about "Blueprints" in the Wiki
+- https://wiki.typo3.org/Blueprints/
 - https://wiki.typo3.org/Blueprints/composer.typo3.org
 - https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-045/
-
-
-
-
 
 
 
