@@ -76,7 +76,7 @@ The list of heros:
 | `040 Christopher Stelmaszyk <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-040/>`__
 | `041 (free) <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
 | `042 Ralf Zimmermann      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-042/>`__
-| `043 (free) <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-043/>`__
+| `043 Jonathan Iroulin     <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-043/>`__
 | `044 (free) <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-044/>`__
 | `045  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-045/>`__
 | `046  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-046/>`__
