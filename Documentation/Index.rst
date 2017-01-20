@@ -33,7 +33,7 @@ My Public Info Project 001
 :Writing here:    `Martin Bless <martin.bless@mbless.de>`__
 :Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_
-:Others:          `overview <..>`__
+:Others:          `Who else has a starter project? <TeachingDocs/StarterManuals/Index.html#who-is-where>`__
 
 `Rebuild! <https://docs.typo3.org/~mbless/github.com/T3DocumentationStarter/Public-Info-001.git.make/request_rebuild.php>`__
 
