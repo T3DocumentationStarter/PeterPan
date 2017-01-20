@@ -77,9 +77,9 @@ The list of heros:
 | `041 (free) <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
 | `042 Ralf Zimmermann      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-042/>`__
 | `043 Jonathan Iroulin     <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-043/>`__
-| `044 (free) <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-044/>`__
-| `045  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-045/>`__
-| `046  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-046/>`__
+| `044 Used for TEACHING    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-044/>`__
+| `045 Used for TEACHING    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-045/>`__
+| `046 Marco Seiler         <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-046/>`__
 | `047  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-047/>`__
 | `048  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-048/>`__
 | `049  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-049/>`__
