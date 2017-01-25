@@ -43,6 +43,7 @@ My Public Info Project 001
 .. rst-class:: compactlist
 .. toctree::
 
+   Docker/Index
    Sprint-2017-01/Index
    AgendaDocumentation/Index
    T3DocsREST/Index
