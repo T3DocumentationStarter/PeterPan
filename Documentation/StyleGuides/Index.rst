@@ -17,6 +17,7 @@ Documentation Guides
    :width: 50px
    :target: http://www.writethedocs.org/
 
+-  https://github.com/seanmadsen/elegant-docs by Sean Madsen (see Slack WTD) 
 
 
 Links
