@@ -81,7 +81,7 @@ The list of heros:
 | `045 Used for TEACHING    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-045/>`__
 | `046 Marco Seiler         <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-046/>`__
 | `047 Michael Schams       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-047/>`__
-| `048  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-048/>`__
+| `048 Florian Gaa          <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-048/>`__
 | `049  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-049/>`__
 
 | `050  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-050/>`__
