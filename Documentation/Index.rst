@@ -53,6 +53,5 @@ My Public Info Project 001
    IncomingNotes/Index
    ManualsInProgress/Index
    ReSTlings/Index
-   ReSTlings/ChangelogTest/Index
    Hyperlinks/Index
    reStructuredText/Index
