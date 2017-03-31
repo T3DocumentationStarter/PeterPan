@@ -85,7 +85,7 @@ The list of heros:
 | `049 About Composer       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-049/>`__
 
 | `050 Christian Kuhn       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-050/>`__
-| `051  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-051/>`__
+| `051 Anne Bamberger & team T3UXW <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-051/>`__
 | `052  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-052/>`__
 | `053  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-053/>`__
 | `054  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-054/>`__
