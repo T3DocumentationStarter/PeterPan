@@ -62,3 +62,39 @@ Requitements.txt
    drafts_builddir_relpath = typo3cms/drafts
 
 
+
+
+
+
+System Tools
+============
+
+:: 
+
+   build-essential
+   bzip2
+   curl
+   fdupes
+   * git
+   graphicsmagic
+   graphviz
+   mercurial
+   nano
+   * pandoc
+   * python
+   python-dev
+   python-docutils
+   python-imaging
+   python-mysqldb
+   python-uno
+   * python-yaml
+   * texlive-base
+   * texlive-fonts-extra
+   * texlive-fonts-recommended
+   * texlive-latex-extra
+   * texlive-latex-recommended
+   tidy
+   tree
+   * unzip
+   wget
+   zip
