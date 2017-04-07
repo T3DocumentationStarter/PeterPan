@@ -19,5 +19,16 @@ How to install toolchain "RenderDocumentation" locally
 Requitements.txt
 ----------------
 
-pip install --upgrade click
+::
+
+   git clone https://github.com/marble/TCT.git
+   cd TCT
+   
+   pip install --upgrade click
+   pip install --upgrade pyyaml
+   python setup.py install
+   tct
+   
+   
+   
 
