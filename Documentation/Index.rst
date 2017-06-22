@@ -38,10 +38,8 @@ My Public Info Project 001
 `Rebuild! <https://docs.typo3.org/~mbless/github.com/T3DocumentationStarter/Public-Info-001.git.make/request_rebuild.php>`__
 
 
-**Contents:**
-
-.. rst-class:: compactlist
 .. toctree::
+   :hidden:
 
    Sitemap/Index
    Docker/Index
