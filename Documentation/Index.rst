@@ -43,9 +43,7 @@ My Public Info Project 001
 
    Sitemap/Index
    Docker/Index
-   AgendaDocumentation/Index
    T3DocsREST/Index
-   T3DocTeam/Index
    TeachingDocs/Index
    StyleGuides/Index
    IncomingNotes/Index
