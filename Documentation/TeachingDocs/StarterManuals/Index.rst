@@ -74,7 +74,7 @@ The list of heros:
 | `039 Marcus Müller        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-039/>`__
 
 | `040 Christopher Stelmaszyk <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-040/>`__
-| `041 typo3.org-Team At Work <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
+| `041 TEAM: typo3.org-Team At Work <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
 | `042 Ralf Zimmermann      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-042/>`__
 | `043 Jonathan Iroulin     <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-043/>`__
 | `044 Used for TEACHING    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-044/>`__
@@ -85,10 +85,10 @@ The list of heros:
 | `049 About Composer       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-049/>`__
 
 | `050 Christian Kuhn       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-050/>`__
-| `051 Anne Bamberger & team T3UXW <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-051/>`__
+| `051 TEAM: Anne Bamberger & team T3UXW <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-051/>`__
 | `052 Daniel Siepmann      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-052/>`__
 | `053 Carsten Rose         <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-053/>`__
-| `054 T3DocTeam at work    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-054/>`__
+| `054 TEAM: T3DocTeam at work    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-054/>`__
 | `055  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-055/>`__
 | `056  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-056/>`__
 | `057  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-057/>`__
