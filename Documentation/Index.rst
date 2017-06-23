@@ -32,10 +32,10 @@ My Public Info Project 001
 
 :Writing here:    `Martin Bless <martin.bless@mbless.de>`__
 :Rendered:        |today|
-:Buildinfo:       `buildinfo <_buildinfo>`_
-:Others:          `Who else has a starter project? <TeachingDocs/StarterManuals/Index.html#who-is-where>`__
+:Buildinfo:       `buildinfo <_buildinfo>`_ \|
+                  `Rebuild! <https://docs.typo3.org/~mbless/github.com/T3DocumentationStarter/Public-Info-001.git.make/request_rebuild.php>`__
 
-`Rebuild! <https://docs.typo3.org/~mbless/github.com/T3DocumentationStarter/Public-Info-001.git.make/request_rebuild.php>`__
+:Others:          `Who else has a starter project? <TeachingDocs/StarterManuals/Index.html#who-is-where>`__
 
 See:
 
