@@ -37,3 +37,10 @@ Works:
 - ``:literal:`␠abc``` → :literal:`␠abc`
 - ```␠abc``` → `␠abc`
 - \`\`␠abc\`\` → ``␠abc``
+
+
+
+Experiment
+==========
+
+`<formDefinitionIdentifier>`.element.`<elementIdentifier>`.properties.`<propertyName>`
