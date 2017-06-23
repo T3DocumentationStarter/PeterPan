@@ -46,7 +46,7 @@ Experiment
 Problem
 -------
 
-`<formDefinitionIdentifier>`.element.\ `<elementIdentifier>\ `.properties.\ `<propertyName>`
+`<formDefinitionIdentifier>`.element.\ `<elementIdentifier>`.properties.\ `<propertyName>`
 
 Parsed literal
 --------------
