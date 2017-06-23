@@ -43,7 +43,13 @@ Works:
 Experiment
 ==========
 
-`<formDefinitionIdentifier>`.element.`<elementIdentifier>`.properties.`<propertyName>`
+Problem
+-------
+
+`<formDefinitionIdentifier>`.element.\ `<elementIdentifier>\ `.properties.\ `<propertyName>`
+
+Parsed literal
+--------------
 
 .. parsed-literal::
 
