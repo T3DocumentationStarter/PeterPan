@@ -48,6 +48,7 @@ See:
 
    Sitemap/Index
    Docker/Index
+   T3DocsGitlab/Index
    T3DocsREST/Index
    TeachingDocs/Index
    StyleGuides/Index
