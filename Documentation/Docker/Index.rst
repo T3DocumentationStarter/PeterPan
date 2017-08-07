@@ -45,7 +45,11 @@ Readings:
    </VirtualHost>
 
    # vim: syntax=apache ts=4 sw=4 sts=4 sr noet
-   # https://confluence.atlassian.com/kb/proxying-atlassian-server-applications-with-apache-http-server-mod_proxy_http-806032611.html
+   
+Read:
+
+-  Do search: https://www.startpage.com/do/dsearch?query=apache2+mod_proxy
+-  https://confluence.atlassian.com/kb/proxying-atlassian-server-applications-with-apache-http-server-mod_proxy_http-806032611.html
    
 :file:`/etc/hosts`::
 
