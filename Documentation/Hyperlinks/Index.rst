@@ -21,9 +21,9 @@
 .. The following, first section (= headline) is the 'Document Title'.
 
 
-======================
+==========
 Hyperlinks
-======================
+==========
 
 
 The complete, anonymous form
