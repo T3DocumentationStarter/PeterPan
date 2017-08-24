@@ -17,10 +17,6 @@
 
 .. highlight:: rst
 
-
-.. The following, first section (= headline) is the 'Document Title'.
-
-
 ==========================
 My Public Info Project 001
 ==========================
