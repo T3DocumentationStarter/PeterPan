@@ -37,7 +37,6 @@ See:
 -  `041: Team T3O  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
 -  `054: T3DocTeam <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-054/>`__
 
-
 .. toctree::
    :hidden:
 
