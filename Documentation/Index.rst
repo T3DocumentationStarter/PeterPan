@@ -25,11 +25,6 @@
 My Public Info Project 001
 ==========================
 
-
-.. The following is 'field list' which is rendered as a horizontal table.
-   Think of it as key-value pairs.
-
-
 :Writing here:    `Martin Bless <martin.bless@mbless.de>`__
 :Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_ \|
