@@ -74,7 +74,7 @@ The list of heros:
 | `039 Marcus Müller        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-039/>`__
 
 | `040 Christopher Stelmaszyk <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-040/>`__
-| `041                      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
+| `041 Franz Holzinger      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-041/>`__
 | `042 Ralf Zimmermann      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-042/>`__
 | `043 Jonathan Iroulin     <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-043/>`__
 | `044 Used for TEACHING    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-044/>`__
