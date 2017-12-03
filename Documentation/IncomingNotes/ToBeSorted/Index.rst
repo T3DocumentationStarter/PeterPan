@@ -1,13 +1,10 @@
 
-.. include:: ../Includes.txt
+.. include:: ../../Includes.txt
 
-==============
-Incoming Notes
-==============
+============
+To be sorted
+============
 
-
-.. The contents directive:
-   See http://docutils.sourceforge.net/docs/ref/rst/directives.html#table-of-contents
 
 **On this page:**
 
@@ -103,14 +100,3 @@ Single backslash in a code-block::
 
    use Vendor\Extkey\Domain\Model\Abc;
    
-More
-====
-
-.. toctree::
-   :hidden:
-   
-   AboutHighlighting/Index
-   AboutTheWiki/Index
-   ToBeSorted/Index
-   
-
