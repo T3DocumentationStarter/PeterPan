@@ -110,4 +110,7 @@ More
    :hidden:
    
    AboutHighlighting/Index
+   AboutTheWiki/Index
+   ToBeSorted/Index
+   
 
