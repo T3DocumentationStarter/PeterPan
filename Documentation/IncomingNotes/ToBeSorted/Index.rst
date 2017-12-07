@@ -83,6 +83,8 @@ What to document?
    
    Example:
    pip install https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/archive/master.zip
+   
+-  List of videos: https://notes.typo3.org/p/TYPO3-Videos   
 
 
 Testing reST Code
