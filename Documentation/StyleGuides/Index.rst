@@ -163,8 +163,8 @@ Short sentences
 
 Max the cat
 
-.. figure:: max-the-cat-jpg
-   :alt: Flyer at the library
+.. figure:: max-the-cat.jpg
+   :alt: Flyer at the library to not let in the cat
    :style: with-shadow
 
    How to deal with Max, the cat
