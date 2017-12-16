@@ -155,3 +155,18 @@ https://swagger.io / https://github.com/OAI/OpenAPI-Specification/
    
    The Swagger specification is licensed under The Apache License, Version 2.0.
    
+Examples
+========
+
+Short sentences
+---------------
+
+Max the cat
+
+.. figure:: max-the-cat-jpg
+   :alt: Flyer at the library
+   :style: with-shadow
+
+   How to deal with Max, the cat
+
+   
