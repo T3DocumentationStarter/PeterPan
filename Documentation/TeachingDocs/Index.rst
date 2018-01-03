@@ -10,3 +10,4 @@ Teaching Docs
    
    Skills/Index.rst
    StarterManuals/Index.rst
+   ErklaerVideos/Index.rst
