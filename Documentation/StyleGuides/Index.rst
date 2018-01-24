@@ -43,9 +43,9 @@ Related
 What are Tutorials, How-to guides, Explanations, References?
 ============================================================
 
--  Very good blogpost about different kind of manuals by Daniele Procida,
-   May 19, 2017: `What nobody tells you about documentation
-   <https://www.divio.com/en/blog/documentation/>`__
+-  `What nobody tells you about documentation
+   <https://www.divio.com/en/blog/documentation/>`__ - a very good blogpost about 
+   different kind of manuals by Daniele Procida, May 19, 2017
 
 
 
