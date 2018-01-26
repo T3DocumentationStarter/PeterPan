@@ -38,7 +38,7 @@ See:
    :hidden:
 
    Sitemap/Index
-   T3cmd/Index
+   T3cmd2018/Index
    Docker/Index
    T3DocsGitlab/Index
    T3DocsREST/Index
