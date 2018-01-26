@@ -38,6 +38,7 @@ See:
    :hidden:
 
    Sitemap/Index
+   T3cmd/Index
    Docker/Index
    T3DocsGitlab/Index
    T3DocsREST/Index
