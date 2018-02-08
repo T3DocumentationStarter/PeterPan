@@ -61,8 +61,8 @@ Versuch drei
 `FORM-DEFINITION-IDENTIFIER.element.ELEMENT-IDENTIFIER.properties.PROPERTY-NAME`
 
 
-Simulate table
-==============
+Try out table
+=============
 
 Abbreviations
    | TER = TYPO3 extension repository
