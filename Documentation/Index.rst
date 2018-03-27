@@ -38,15 +38,16 @@ See:
    :hidden:
 
    Sitemap/Index
-   MarkupLanguages/Index
+   AboutVPN/Index
    Docker/Index
+   DocTools/Index
+   Hyperlinks/Index
+   IncomingNotes/Index
+   ManualsInProgress/Index
+   MarkupLanguages/Index
+   ReSTlings/Index
+   reStructuredText/Index
+   StyleGuides/Index
    T3DocsGitlab/Index
    T3DocsREST/Index
    TeachingDocs/Index
-   StyleGuides/Index
-   IncomingNotes/Index
-   ManualsInProgress/Index
-   ReSTlings/Index
-   Hyperlinks/Index
-   reStructuredText/Index
-   AboutVPN/Index
