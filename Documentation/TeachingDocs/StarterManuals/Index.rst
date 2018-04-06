@@ -91,7 +91,7 @@ The list of heros:
 | `054 TEAM: T3DocTeam at work    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-054/>`__
 | `055 Roman Büchler        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-055/>`__
 | `056 Sybille Peters       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-056/>`__
-| `057  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-057/>`__
+| `057 Mona Muzaffar        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-057/>`__
 | `058  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-058/>`__
 | `059  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-059/>`__
 
