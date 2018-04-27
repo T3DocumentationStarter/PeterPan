@@ -65,10 +65,3 @@ Textroles
 
 kbd: :kbd:`Control-x Control-f`
 
-Special unicode characters
-==========================
-
-NEGATIVE CIRCLED DIGIT ⓿ ❶ ❷ ❸ ❹ ❺ ❻ ❼ ❽ ❾
-
-
-
