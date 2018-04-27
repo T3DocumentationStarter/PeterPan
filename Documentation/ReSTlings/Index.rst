@@ -71,3 +71,8 @@ Admonitions
 .. admonition:: This one is generic!
 
    And here we go!
+
+
+.. tip:: How to make money now!
+
+   What you should do: ...
