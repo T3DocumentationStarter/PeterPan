@@ -65,3 +65,9 @@ Textroles
 
 kbd: :kbd:`Control-x Control-f`
 
+Admonitions
+===========
+
+.. admonition:: This one is generic!
+
+   And here we go!
