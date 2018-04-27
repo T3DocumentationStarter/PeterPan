@@ -72,6 +72,8 @@ Admonitions
 
    And here we go!
 
+.. note:: There may be a better way.
+   We only have to find it.
 
 .. tip:: How to make money now!
 
