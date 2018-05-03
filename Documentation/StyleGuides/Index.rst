@@ -47,7 +47,12 @@ What are Tutorials, How-to guides, Explanations, References?
    <https://www.divio.com/en/blog/documentation/>`__ - a very good blogpost about 
    different kind of manuals by Daniele Procida, May 19, 2017
 
+-  `Ubuntu: How to write a tutorial <https://tutorials.ubuntu.com/tutorial/tutorial-guidelines#0>`__
 
+   .. figure:: Ubuntu-How-to-write-a-tutorial-teaser.png
+      :class: with-shadow
+      :alt: teaser
+      :target: https://tutorials.ubuntu.com/tutorial/tutorial-guidelines#0
 
 English: Capitalization in Titles
 =================================
