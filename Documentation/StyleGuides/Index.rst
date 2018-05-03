@@ -51,7 +51,7 @@ What are Tutorials, How-to guides, Explanations, References?
 
    .. figure:: Ubuntu-How-to-write-a-tutorial-teaser.png
       :class: with-shadow
-      :alt: teaser
+      :alt: teaser image
       :target: https://tutorials.ubuntu.com/tutorial/tutorial-guidelines#0
 
 English: Capitalization in Titles
