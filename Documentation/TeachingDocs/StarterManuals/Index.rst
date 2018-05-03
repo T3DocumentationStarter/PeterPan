@@ -88,7 +88,7 @@ The list of heros:
 | `051 TEAM: Anne Bamberger & team T3UXW <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-051/>`__
 | `052 Daniel Siepmann      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-052/>`__
 | `053 Carsten Rose         <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-053/>`__
-| `054 TEAM: T3DocTeam at work    <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-054/>`__
+| `054  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-054/>`__
 | `055 Roman Büchler        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-055/>`__
 | `056 Sybille Peters       <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-056/>`__
 | `057 Mona Muzaffar        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-057/>`__
