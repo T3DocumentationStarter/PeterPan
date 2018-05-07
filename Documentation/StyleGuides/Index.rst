@@ -194,6 +194,6 @@ PHP DocBlocks
 
 Interesting blogpost: https://localheinz.com/blog/2018/05/06/cost-and-value-of-docblocks/
 
-.. figure:: cost-and-value-of-dockblocks.png
+.. figure:: cost-and-value-of-docblocks.png
    :target: https://localheinz.com/blog/2018/05/06/cost-and-value-of-docblocks/
    :class:  with-shadow
