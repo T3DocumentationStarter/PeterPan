@@ -61,8 +61,13 @@ properties.dateFormat
         D => A textual representation of a day, three letters
         j => Day of the month without leading zeros
         l => A full textual representation of the day of the week
+        
+        
+     How to write tables: http://docutils.sourceforge.net/docs/user/rst/quickref.html#tables   
 
      =  ====================================================
+     Day
+     -------------------------------------------------------
      F  Description
      =  ====================================================
      d  Day of the month, 2 digits with leading zeros
