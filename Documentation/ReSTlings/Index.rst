@@ -62,6 +62,15 @@ properties.dateFormat
         j => Day of the month without leading zeros
         l => A full textual representation of the day of the week
 
+     =  ====================================================
+     F  Description
+     =  ====================================================
+     d  Day of the month, 2 digits with leading zeros
+     D  A textual representation of a day, three letters
+     j  Day of the month without leading zeros
+     l  A full textual representation of the day of the week
+     =  ====================================================
+
      Month::
 
         F => A full textual representation of a month, such as January or March
