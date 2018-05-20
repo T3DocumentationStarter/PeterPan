@@ -54,6 +54,10 @@ What are Tutorials, How-to guides, Explanations, References?
       :alt: teaser image
       :target: https://tutorials.ubuntu.com/tutorial/tutorial-guidelines#0
 
+English
+=======
+
+- https://dictionary.cambridge.org/dictionary/english/
 
 English grammar
 ===============
