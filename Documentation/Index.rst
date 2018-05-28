@@ -37,7 +37,6 @@ See:
    :hidden:
 
    Sitemap/Index
-   AboutVPN/Index
    Docker/Index
    DocTools/Index
    Hyperlinks/Index
