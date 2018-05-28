@@ -87,18 +87,3 @@ What to document?
 -  List of videos: https://notes.typo3.org/p/TYPO3-Videos   
 
 
-Testing reST Code
-=================
-
-Backslash
----------
-
-| use Vendor\\Extkey\\Domain\\Model\\Abc;
-| `use Vendor\Extkey\Domain\Model\Abc;`
-| :php:`use Vendor\Extkey\Domain\Model\Abc;`
-| ``use Vendor\Extkey\Domain\Model\Abc;``
-
-Single backslash in a code-block::
-
-   use Vendor\Extkey\Domain\Model\Abc;
-   
