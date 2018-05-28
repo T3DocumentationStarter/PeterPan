@@ -6,6 +6,94 @@ ReST Tryouts
 ============
 
 
+Wanted: Inline code starting with blanks
+========================================
+
+See also: `Unicode search for "space" <http://unicode-suche.de/unicode-namesearch.pl?term=space>`__
+
+Using U+0020 SPACE
+------------------
+
+Does not work:
+
+- ``:literal:`\ abc``` → :literal:`\ abc` parsing works, but no blank in output
+- ```\ abc``` → `\ abc`
+- \`\` abc\`\` → ``\ abc``
+
+Using U+00A0 NO-BREAK SPACE
+---------------------------
+
+Does not work:
+
+- ``:literal:``` abc` → :literal:` abc`
+- ``` abc``` → ` abc`
+- \`\` abc\`\` → `` abc``
+
+
+Using U+2420 SYMBOL FOR SPACE
+-----------------------------
+
+Works:
+
+- ``:literal:`␠abc``` → :literal:`␠abc`
+- ```␠abc``` → `␠abc`
+- \`\`␠abc\`\` → ``␠abc``
+
+
+
+Experiment
+==========
+
+Versuch eins
+------------
+
+`<formDefinitionIdentifier>`.element.\ `<elementIdentifier>`.properties.\ `<propertyName>`
+
+Versuch zwei (parsed literal)
+-----------------------------
+
+.. parsed-literal::
+
+   **formDefinitionIdentifier**.element.\ **elementIdentifier**.properties.\ **propertyName**
+   
+Versuch drei
+------------
+
+`FORM-DEFINITION-IDENTIFIER.element.ELEMENT-IDENTIFIER.properties.PROPERTY-NAME`
+
+Textroles
+=========
+
+kbd: :kbd:`Control-x Control-f`
+
+Admonitions
+===========
+
+.. admonition:: This one is generic!
+
+   And here we go!
+
+.. note:: There may be a better way.
+   We only have to find it.
+
+.. tip:: How to make money now!
+
+   What you should do: ...
+
+
+Backslash
+=========
+
+| use Vendor\\Extkey\\Domain\\Model\\Abc;
+| `use Vendor\Extkey\Domain\Model\Abc;`
+| :php:`use Vendor\Extkey\Domain\Model\Abc;`
+| ``use Vendor\Extkey\Domain\Model\Abc;``
+
+Single backslash in a code-block::
+
+   use Vendor\Extkey\Domain\Model\Abc;
+   
+
 Quick try
 =========
 
@@ -90,78 +178,3 @@ properties.dateFormat
         
      .. highlight:: php   
 
-
-
-Wanted: Inline code starting with blanks
-========================================
-
-See also: `Unicode search for "space" <http://unicode-suche.de/unicode-namesearch.pl?term=space>`__
-
-Using U+0020 SPACE
-------------------
-
-Does not work:
-
-- ``:literal:`\ abc``` → :literal:`\ abc` parsing works, but no blank in output
-- ```\ abc``` → `\ abc`
-- \`\` abc\`\` → ``\ abc``
-
-Using U+00A0 NO-BREAK SPACE
----------------------------
-
-Does not work:
-
-- ``:literal:``` abc` → :literal:` abc`
-- ``` abc``` → ` abc`
-- \`\` abc\`\` → `` abc``
-
-
-Using U+2420 SYMBOL FOR SPACE
------------------------------
-
-Works:
-
-- ``:literal:`␠abc``` → :literal:`␠abc`
-- ```␠abc``` → `␠abc`
-- \`\`␠abc\`\` → ``␠abc``
-
-
-
-Experiment
-==========
-
-Versuch eins
-------------
-
-`<formDefinitionIdentifier>`.element.\ `<elementIdentifier>`.properties.\ `<propertyName>`
-
-Versuch zwei (parsed literal)
------------------------------
-
-.. parsed-literal::
-
-   **formDefinitionIdentifier**.element.\ **elementIdentifier**.properties.\ **propertyName**
-   
-Versuch drei
-------------
-
-`FORM-DEFINITION-IDENTIFIER.element.ELEMENT-IDENTIFIER.properties.PROPERTY-NAME`
-
-Textroles
-=========
-
-kbd: :kbd:`Control-x Control-f`
-
-Admonitions
-===========
-
-.. admonition:: This one is generic!
-
-   And here we go!
-
-.. note:: There may be a better way.
-   We only have to find it.
-
-.. tip:: How to make money now!
-
-   What you should do: ...
