@@ -10,7 +10,9 @@ Day One
 Testing and content fixture
 ===========================
 
-How to create a defined content for testing? Ideas:
+How to create a defined content for testing? 
+
+Ideas and solutions:
 
 * Write sql-statements in files
 * Use Faker https://faker.readthedocs.io/en/master/
