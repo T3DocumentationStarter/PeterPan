@@ -16,7 +16,9 @@ Tag Management Systeme
 #. `Google Tag Manager <https://www.google.com/intl/de/tagmanager/>__ - 
    seit 2015 gibt es Version 2. Schick, auch für Manager.
 
-Was macht man damit? Erläuterung allgemeiner Vorteile.
+   .. figure:: google-tag-manager.png
+
+Was macht man damit? Erläuterung allgemeiner Vorteile und konkreter Einsatzmöglichkeiten.
 
 
 
