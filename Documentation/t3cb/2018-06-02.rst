@@ -54,7 +54,11 @@ Performance Optimierung
    
 #. https://tinypng.com/
 
-   .. figure:: tinypng.png   
+   .. figure:: tinypng.png
+   
+#. https://cloudinary.com/
+
+   .. figure:: cloudinary.png
 
    
 
