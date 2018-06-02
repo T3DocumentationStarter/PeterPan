@@ -23,6 +23,11 @@ How to create a defined content for testing? Ideas:
 * https://github.com/TildBJ/seeder
 
      Seeder is a TYPO3 Extension that generates fake data for your TYPO3 Extension. 
-     Its intended for developers only!!! This Version is an experimental version! 
+     Its intended for developers only!!! This Version is an experimental version!
+     
+* https://extensions.typo3.org/extension/seeder/  
+
+     Seeder is a TYPO3 Extension that generates fake data for your TYPO3 Extension. 
+     Its intended for developers only!!! This Version is an experimental version!
 
   
