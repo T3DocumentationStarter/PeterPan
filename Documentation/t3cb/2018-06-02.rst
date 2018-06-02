@@ -68,6 +68,8 @@ Performance Optimierung
 
       Transparent static file cache solution using mod_rewrite and mod_expires. 
       Increase performance for static pages by a factor of 230!!
+   
+   Has a lot of **documentation** at Github: https://github.com/lochmueller/staticfilecache/tree/master/Documentation
 
    
 
