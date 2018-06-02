@@ -42,7 +42,10 @@ Performance Optimierung
 #. Aufruf zur Diskussion. Gemeint ist das "Gesamtpaket" einer Installation und auch der
    Redakteurs-Arbeit. Beispiel: Bildbearbeitung separieren.
    
-#. Versuch das Interesse zu ergründen und zu bündeln: Wie umgehen mit Javascript-Dateien?   
+#. Versuch das Interesse zu ergründen und zu bündeln: Wie umgehen mit Javascript-Dateien?
+
+#. Wie kann man realisieren, dass Contentelement-spezifisches CSS und JS nur bei 
+   Notwendigkeit geladen wird? Verschiedene Solutions werden beschrieben. 
    
 
   
