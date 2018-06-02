@@ -5,6 +5,23 @@
 Day One
 ===============
 
+
+
+======================
+Tag Management Systeme
+======================
+
+14.30 Uhr
+
+#. `Google Tag Manager <https://www.google.com/intl/de/tagmanager/>__ - 
+   seit 2015 gibt es Version 2. Schick, auch für Manager.
+
+Was macht man damit? Erläuterung allgemeiner Vorteile.
+
+
+
+
+
 11.30 Uhr
 
 Testing and content fixture
