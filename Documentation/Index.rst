@@ -37,7 +37,7 @@ See:
    :hidden:
 
    Sitemap/Index
-   tc3b/Index
+   t3cb/Index
    Docker/Index
    DocTools/Index
    Hyperlinks/Index
