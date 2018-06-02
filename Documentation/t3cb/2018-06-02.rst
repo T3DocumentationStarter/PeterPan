@@ -33,3 +33,15 @@ Ideas and solutions:
      Its intended for developers only!!! This Version is an experimental version!
 
   
+  
+Performance Optimierung
+=======================
+
+12.30 Uhr
+
+#. Aufruf zur Diskussion. Gemeint ist das "Gesamtpaket" einer Installation und auch der
+   Redakteurs-Arbeit.
+   
+
+  
+  
