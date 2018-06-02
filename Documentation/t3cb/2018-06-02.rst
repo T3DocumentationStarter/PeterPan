@@ -51,6 +51,10 @@ Performance Optimierung
 #. "lighthouse" - Google chrome performance test https://developers.google.com/web/tools/lighthouse
 
    .. figure:: lighthouse.png
+   
+#. https://tinypng.com/
+
+   .. figure:: tinypng.png   
 
    
 
