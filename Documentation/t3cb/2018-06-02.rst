@@ -63,6 +63,11 @@ Performance Optimierung
 #. https://webpack.js.org/
 
    .. figure:: webpack.png
+   
+#. Tim Lochmüller zeigt `staticfilecache <https://packagist.org/packages/lochmueller/staticfilecache>`__
+
+      Transparent static file cache solution using mod_rewrite and mod_expires. 
+      Increase performance for static pages by a factor of 230!!
 
    
 
