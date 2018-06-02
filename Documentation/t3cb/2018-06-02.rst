@@ -40,7 +40,9 @@ Performance Optimierung
 12.30 Uhr
 
 #. Aufruf zur Diskussion. Gemeint ist das "Gesamtpaket" einer Installation und auch der
-   Redakteurs-Arbeit.
+   Redakteurs-Arbeit. Beispiel: Bildbearbeitung separieren.
+   
+#. Versuch das Interesse zu ergründen und zu bündeln: Wie umgehen mit Javascript-Dateien?   
    
 
   
