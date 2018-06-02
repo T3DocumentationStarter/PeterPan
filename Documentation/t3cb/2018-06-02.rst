@@ -34,7 +34,11 @@ Ideas and solutions:
 
      Seeder is a TYPO3 Extension that generates fake data for your TYPO3 Extension. 
      Its intended for developers only!!! This Version is an experimental version!
-
+     
+     
+ Beispiel-Bild:
+ 
+ .. image:: 707.png
   
   
 Performance Optimierung
