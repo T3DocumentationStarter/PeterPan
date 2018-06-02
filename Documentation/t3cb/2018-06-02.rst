@@ -59,6 +59,10 @@ Performance Optimierung
 #. https://cloudinary.com/
 
    .. figure:: cloudinary.png
+   
+#. https://webpack.js.org/
+
+   .. figure:: webpack.png
 
    
 
