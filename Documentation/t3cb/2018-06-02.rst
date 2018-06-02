@@ -1,0 +1,17 @@
+
+.. include:: ../Includes.txt
+
+===============
+Day One
+===============
+
+
+
+Testing and content fixture
+===========================
+
+How to create a defined content for testing? Ideas:
+
+* Write sql-statements in files
+* Use Faker https://faker.readthedocs.io/en/master/
+  
