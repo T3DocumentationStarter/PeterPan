@@ -13,7 +13,7 @@ Tag Management Systeme
 
 14.30 Uhr
 
-#. `Google Tag Manager <https://www.google.com/intl/de/tagmanager/>`__ - 
+#. Google Tag Manager, https://www.google.com/intl/de/tagmanager/ - 
    seit 2015 gibt es Version 2. Schick, auch für Manager.
 
    .. figure:: google-tag-manager.png
