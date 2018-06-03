@@ -13,3 +13,13 @@ Composer, Docker, DDev
 
 * Erläutert: Was ist Composer?
 * noch sieben Minuten Zeit für die praktische Demonstration: Docker, DDev mit Composer
+
+
+Testing
+=======
+
+14.00 Daniel Siepmann
+
+* The one and only testing framework: https://phpunit.de/
+* Installieren mit Composer,ergibt Kommandozeilen-Tool ./phpunit
+* Beispiel eines Tests
