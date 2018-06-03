@@ -12,3 +12,4 @@ Composer, Docker, DDev
 11.00 Uhr, Tim Schreiner
 
 * Erläutert: Was ist Composer?
+* noch sieben Minuten Zeit für die praktische Demonstration: Docker, DDev mit Composer
