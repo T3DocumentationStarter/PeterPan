@@ -5,12 +5,12 @@
 Day One
 ===============
 
-http://fiona-krakenbuerger.de/
 
 Key note
 ========
 
-http://fiona-krakenbuerger.de/
+`Fiona Krakenbürger <http://fiona-krakenbuerger.de/>`__
+
 
 Testing and content fixture
 ===========================
