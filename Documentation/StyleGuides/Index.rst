@@ -107,10 +107,6 @@ From the answers:
    Again, my default favorite for writing for the web:"
    https://pages.18f.gov/content-guide/capitalization/
    
--  .. tip::
-   
-      http://titlecapitalization.com/: Title Capitalization: Your Online Title Case Tool
-      
 -  "One frustrating trend that I’ve noticed is that enterprise website styles and support
    style guides use title case, and the tech docs rarely use it.
    This creates confusion when people are contributing to both."
@@ -120,6 +116,21 @@ From the answers:
    For example, "the" shouldn't be capitalized but I've seen 
    "How The Product Works" more than a few times. So even if you make a mistake, 
    you'll have plenty of company :) '''
+   
+Online tools
+------------
+
+*  https://capitalizemytitle.com/ Capitalize My Title
+*  https://titlecaseconverter.com/ Title Case Converter
+*  https://headlinecapitalization.com/ Headline Capitalization
+*  https://www.professionalediting.org/title-capitalization-tool/ Title Capitalization Tool
+*  Summary of rules: https://www.grammarcheck.net/capitalization-in-titles-101/
+*  Blog post: `The Best Title Capitalization Tools Online 2018
+   <https://ladedu.com/the-best-online-title-capitalization-tools/>`__
+
+
+
+
 
 
 Technical Terms
