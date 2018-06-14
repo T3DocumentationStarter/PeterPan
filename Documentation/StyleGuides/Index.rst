@@ -53,6 +53,16 @@ What are Tutorials, How-to guides, Explanations, References?
       :class: with-shadow
       :alt: teaser image
       :target: https://tutorials.ubuntu.com/tutorial/tutorial-guidelines#0
+      
+      
+Examples of tutorials
+---------------------
+
+- `SymPy tutorial <http://docs.sympy.org/latest/tutorial/>`__ versus `SymPy User's Guide
+  <http://docs.sympy.org/latest/guide.html>`__
+  
+  
+
 
 English
 =======
