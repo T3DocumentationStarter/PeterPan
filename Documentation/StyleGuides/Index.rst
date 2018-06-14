@@ -45,6 +45,14 @@ What are Tutorials, How-to guides, Explanations, References?
 
 *  `Differences between “tutorial”, “guide” and “how-to”
    <https://english.stackexchange.com/questions/48388/differences-between-tutorial-guide-and-how-to>`__
+   
+      * A tutorial is a step-by-step walk-through for someone with no experience.
+      * A guide gives basic information, not detailed instruction. Think "pointers".
+      * Particularly for computers, a how-to is more of a list of detailed steps for 
+        particular operations. Here's a list from the Linux Documentation Project
+        
+   **Note:** The Linux Documentation Project spells howto "HOWTO".        
+
 
 *  `What nobody tells you about documentation
    <https://www.divio.com/en/blog/documentation/>`__ - a very good blogpost about 
