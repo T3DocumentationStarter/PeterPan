@@ -43,11 +43,14 @@ Related
 What are Tutorials, How-to guides, Explanations, References?
 ============================================================
 
--  `What nobody tells you about documentation
+*  `Differences between “tutorial”, “guide” and “how-to”
+   <https://english.stackexchange.com/questions/48388/differences-between-tutorial-guide-and-how-to>`__
+
+*  `What nobody tells you about documentation
    <https://www.divio.com/en/blog/documentation/>`__ - a very good blogpost about 
    different kind of manuals by Daniele Procida, May 19, 2017
 
--  `Ubuntu: How to write a tutorial <https://tutorials.ubuntu.com/tutorial/tutorial-guidelines#0>`__
+*  `Ubuntu: How to write a tutorial <https://tutorials.ubuntu.com/tutorial/tutorial-guidelines#0>`__
 
    .. figure:: Ubuntu-How-to-write-a-tutorial-teaser.png
       :class: with-shadow
