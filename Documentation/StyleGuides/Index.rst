@@ -11,7 +11,9 @@ Documentation Guides
 
 .. http://docutils.sourceforge.net/docs/ref/rst/directives.html#image
 
--  |RTDlogo| `Documentation guide <http://www.writethedocs.org/guide/>`__ of WriteTheDocs
+-  `Microsoft Writing Style Guide <https://docs.microsoft.com/de-de/style-guide/welcome/>`__
+
+-  |RTDlogo| `Documentation Guide <http://www.writethedocs.org/guide/>`__ of WriteTheDocs
 
 -  The Python Style Guide https://docs.python.org/devguide/documenting.html
 
@@ -40,7 +42,7 @@ Related
    Let the reader start reading anywhere.
 
 
-What are Tutorials, How-to guides, Explanations, References?
+What are tutorials, how-to guides, explanations, references?
 ============================================================
 
 *  `Differences between “tutorial”, “guide” and “how-to”
@@ -174,7 +176,7 @@ __ https://www.google.de/?gfe_rd=cr&ei=X8lKWKKpKZGQ8QfDqJXwBA#q=What%20are%20the
 .. _On-Line Event: https://single-sourcing.com/events/2016/10/editing-the-work-of-non-native-english-speakers/
 .. _Youtube: https://www.youtube.com/watch?v=gBTIQ5SnfPk
 
-Commit Messages
+Commit messages
 ===============
 
 -  http://chris.beams.io/posts/git-commit/#imperative !!!
@@ -183,7 +185,7 @@ Commit Messages
 .. include:: VariableNaming.inc.rst
 
 
-Good Examples Of Technical Writing
+Good examples of technical writing
 ==================================
 
 Chrome DevTools
