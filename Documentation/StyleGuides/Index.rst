@@ -127,7 +127,11 @@ From the answers:
    "How The Product Works" more than a few times. So even if you make a mistake, 
    you'll have plenty of company :) '''
    
--  Good blog post: http://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.html   
+-  Good blog post: 
+   http://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.html
+   
+-  Recommendation: https://docs.microsoft.com/de-de/style-guide/capitalization
+
    
 Online tools
 ------------
@@ -139,8 +143,6 @@ Online tools
 *  Summary of rules: https://www.grammarcheck.net/capitalization-in-titles-101/
 *  Blog post: `The Best Title Capitalization Tools Online 2018
    <https://ladedu.com/the-best-online-title-capitalization-tools/>`__
-
-
 
 
 
