@@ -27,12 +27,15 @@ Documentation Guides
 Links
 =====
 
--  `The Writer's Handbook: Documentation Styles (writing.wisc.edu)
+*  Quora: `What is the best style guide for writing technical user manuals?
+   <https://www.quora.com/What-is-the-best-style-guide-for-writing-technical-user-manuals>`__
+
+*  `The Writer's Handbook: Documentation Styles (writing.wisc.edu)
    <http://writing.wisc.edu/Handbook/Documentation.html>`__
    
--  `Apple Style Guide 2013 (PDF) <https://help.apple.com/asg/mac/2013/ASG_2013.pdf>`__
--  `Apple Style Guide 2013 (PDF) <http://cdn2.hubspot.net/hubfs/1772454/Blog_Images/01.26.16.Apple_Style_Guide.pdf>`__
--  http://www.chicagomanualofstyle.org/home.html
+*  `Apple Style Guide 2013 (PDF) <https://help.apple.com/asg/mac/2013/ASG_2013.pdf>`__
+*  `Apple Style Guide 2013 (PDF) <http://cdn2.hubspot.net/hubfs/1772454/Blog_Images/01.26.16.Apple_Style_Guide.pdf>`__
+*  http://www.chicagomanualofstyle.org/home.html
 
 
 Related
