@@ -2,11 +2,11 @@
 .. include:: ../Includes.txt
 
 =============================================================
-Style Guides
+Style guides
 =============================================================
 
 
-Documentation Guides
+Documentation guides
 ====================
 
 .. http://docutils.sourceforge.net/docs/ref/rst/directives.html#image
@@ -91,7 +91,7 @@ English grammar
 - `gymglish.com: 'Must' versus 'have to' <https://www.gymglish.com/en/english-grammar/must-vs-have-to>`__
 
 
-English: Capitalization in Titles
+English: Capitalization in titles
 =================================
 
 2016-11-02
@@ -148,10 +148,17 @@ Online tools
    <https://ladedu.com/the-best-online-title-capitalization-tools/>`__
 
 
+English: Dictionary
+===================
+
+.. code-block:: none
+
+   blog post
+   text role
 
 
-Technical Terms
-===============
+Technical terms with translation
+================================
 
 =================================================== ====================
 english                                             deutsch
@@ -161,7 +168,7 @@ covering letter                                     Anschreiben
 
 
 
-Scientific Or Technical Writing For Non-native English Speakers
+Scientific or technical writing for non-native english speakers
 ===============================================================
 
 2016-12-09
@@ -237,7 +244,7 @@ Max the cat
 PHP DocBlocks
 =============
 
-Interesting blogpost: https://localheinz.com/blog/2018/05/06/cost-and-value-of-docblocks/
+Interesting blog post: https://localheinz.com/blog/2018/05/06/cost-and-value-of-docblocks/
 
 .. figure:: cost-and-value-of-docblocks.png
    :target: https://localheinz.com/blog/2018/05/06/cost-and-value-of-docblocks/
