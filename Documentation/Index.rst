@@ -37,7 +37,6 @@ See:
    :hidden:
 
    Sitemap/Index
-   t3cb/Index
    Docker/Index
    DocTools/Index
    Hyperlinks/Index
@@ -50,3 +49,4 @@ See:
    T3DocsGitlab/Index
    T3DocsREST/Index
    TeachingDocs/Index
+   t3cb/Index
