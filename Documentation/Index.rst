@@ -30,8 +30,8 @@ My Public Info Project 001
 
 See:
 
--  `999: T3O-Team   <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>`__
--  `054: T3DocTeam  <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/>`__
+-  `T3O-Team   <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>`__
+-  `T3DocTeam  <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/>`__
 
 .. toctree::
    :hidden:
