@@ -31,7 +31,7 @@ The list of heros:
 
 | `000 Master Template      <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-000/>`__
 | `001 Martin Bless         <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/>`__
-| `002 Philipp Gampe        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-002/>`__
+| `002 Riccardo De Contardi <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-002/>`__
 | `003 Harry Glatz          <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-003/>`__
 | `004 Benni Mack           <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-004/>`__
 | `005 Simon Schmidt        <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-005/>`__
