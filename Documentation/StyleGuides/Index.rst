@@ -90,16 +90,15 @@ Online dictionaries
 *  Cambridge Dictionary: American English
    <https://dictionary.cambridge.org/de/worterbuch/amerikanisches-englisch/>`__
 
-   
+ 
    
 
 Word list
 ---------
 
-.. code-block:: none
-
-   blog post
-   text role
+\| blog post
+\| text role
+\|
 
 
 English
