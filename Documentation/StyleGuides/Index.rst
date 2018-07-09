@@ -104,10 +104,6 @@ Word list
 \|
 
 
-English
-=======
-
-- https://dictionary.cambridge.org/dictionary/english/
 
 English grammar
 ===============
