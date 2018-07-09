@@ -78,6 +78,21 @@ Examples of tutorials
   <http://docs.sympy.org/latest/guide.html>`__
   
   
+Dictionaries
+============
+
+* Search `american dictionary 
+  <https://www.startpage.com/do/dsearch?query=american+dictionary>`__
+  
+  
+
+Word list
+---------
+
+.. code-block:: none
+
+   blog post
+   text role
 
 
 English
@@ -148,13 +163,7 @@ Online tools
    <https://ladedu.com/the-best-online-title-capitalization-tools/>`__
 
 
-English: Dictionary
-===================
 
-.. code-block:: none
-
-   blog post
-   text role
 
 
 Technical terms with translation
