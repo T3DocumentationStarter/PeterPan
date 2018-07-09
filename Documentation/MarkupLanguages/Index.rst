@@ -1,6 +1,6 @@
 
 
-.. include:: ../Include.txt
+.. include:: ../Includes.txt
 
 ============================
 Markup Languages
