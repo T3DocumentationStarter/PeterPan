@@ -87,8 +87,11 @@ Online dictionaries
 * Search `american dictionary 
   <https://www.startpage.com/do/dsearch?query=american+dictionary>`__
 
-*  Cambridge Dictionary: American English
+*  `Cambridge Dictionary: American English
    <https://dictionary.cambridge.org/de/worterbuch/amerikanisches-englisch/>`__
+   
+*  `Oxford Advanced American Dictionary
+   <https://www.oxfordlearnersdictionaries.com/definition/american_english/>`__ 
 
  
    
