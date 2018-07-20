@@ -93,7 +93,10 @@ Online dictionaries
 *  `Oxford Advanced American Dictionary
    <https://www.oxfordlearnersdictionaries.com/definition/american_english/>`__ 
 
- 
+Plus:
+
+*  `Google Dictionary <http://www.dictionary.com/>`__ \|
+   `Chrome extension <https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja>`__ 
    
 
 Word list
