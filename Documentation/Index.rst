@@ -43,6 +43,7 @@ See:
    IncomingNotes/Index
    ManualsInProgress/Index
    MarkupLanguages/Index
+   Meetings/Index
    ReSTlings/Index
    reStructuredText/Index
    StyleGuides/Index
