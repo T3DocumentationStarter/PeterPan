@@ -2,7 +2,7 @@
 .. include:: ../Includes.txt
 
 ==============
-Incoming Notes
+Incoming
 ==============
 
 Chapters:
