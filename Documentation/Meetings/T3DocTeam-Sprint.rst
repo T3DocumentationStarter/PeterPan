@@ -10,3 +10,4 @@ T3DocTeam Sprint
 |
 | Move rendering into the cloud?
 | What do we need for Elasticsearch?
+| How to improve https://docs.typo3.org/services/GithubPullRequests/
