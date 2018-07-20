@@ -16,6 +16,12 @@ Stichpunkte
 | How to improve https://docs.typo3.org/services/GithubPullRequests/
 
 
+Exchange information
+====================
+
+*  Current state of "The Extbase Book"
+
+
 To do
 =====
 
