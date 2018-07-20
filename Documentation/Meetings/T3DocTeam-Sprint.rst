@@ -16,10 +16,11 @@ Stichpunkte
 | How to improve https://docs.typo3.org/services/GithubPullRequests/
 
 
-Exchange information
-====================
+Share
+=====
 
 *  Current state of "The Extbase Book"
+*  How do you prioritize issues?
 
 
 To do
