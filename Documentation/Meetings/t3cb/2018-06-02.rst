@@ -1,5 +1,5 @@
 
-.. include:: ../Includes.txt
+.. include:: ../../Includes.txt
 
 ===============
 Day One
@@ -17,34 +17,34 @@ Testing and content fixture
 
 11.30 Uhr
 
-How to create a defined content for testing? 
+How to create a defined content for testing?
 
 Ideas and solutions:
 
 * Write sql-statements in files
 * Use Faker https://faker.readthedocs.io/en/master/
 
-     Faker is a Python package that generates fake data for you. Whether you 
-     need to bootstrap your database, create good-lookin  g XML documents, 
-     fill-in your persistence to stress test it, or anonymize data taken 
+     Faker is a Python package that generates fake data for you. Whether you
+     need to bootstrap your database, create good-lookin  g XML documents,
+     fill-in your persistence to stress test it, or anonymize data taken
      from a production service, Faker is for you.
 
 * https://github.com/TildBJ/seeder
 
-     Seeder is a TYPO3 Extension that generates fake data for your TYPO3 Extension. 
+     Seeder is a TYPO3 Extension that generates fake data for your TYPO3 Extension.
      Its intended for developers only!!! This Version is an experimental version!
-     
-* https://extensions.typo3.org/extension/seeder/  
 
-     Seeder is a TYPO3 Extension that generates fake data for your TYPO3 Extension. 
+* https://extensions.typo3.org/extension/seeder/
+
+     Seeder is a TYPO3 Extension that generates fake data for your TYPO3 Extension.
      Its intended for developers only!!! This Version is an experimental version!
-     
-     
+
+
  Beispiel-Bild:
- 
+
  .. image:: 707.png
-  
-  
+
+
 Performance Optimierung
 =======================
 
@@ -52,49 +52,49 @@ Performance Optimierung
 
 #. Aufruf zur Diskussion. Gemeint ist das "Gesamtpaket" einer Installation und auch der
    Redakteurs-Arbeit. Beispiel: Bildbearbeitung separieren.
-   
+
 #. Versuch das Interesse zu ergründen und zu bündeln: Wie umgehen mit Javascript-Dateien?
 
-#. Wie kann man realisieren, dass Contentelement-spezifisches CSS und JS nur bei 
+#. Wie kann man realisieren, dass Contentelement-spezifisches CSS und JS nur bei
    Notwendigkeit geladen wird? Verschiedene Solutions werden beschrieb
-  
-   
+
+
 #. "lighthouse" - Google chrome performance test https://developers.google.com/web/tools/lighthouse
 
    .. figure:: lighthouse.png
-   
+
 #. https://tinypng.com/
 
    .. figure:: tinypng.png
-   
+
 #. https://cloudinary.com/
 
    .. figure:: cloudinary.png
-   
+
 #. https://webpack.js.org/
 
    .. figure:: webpack.png
-   
+
 #. Tim Lochmüller zeigt `staticfilecache <https://packagist.org/packages/lochmueller/staticfilecache>`__
 
-      Transparent static file cache solution using mod_rewrite and mod_expires. 
+      Transparent static file cache solution using mod_rewrite and mod_expires.
       Increase performance for static pages by a factor of 230!!
-   
+
    Has a lot of **documentation** at Github: https://github.com/lochmueller/staticfilecache/tree/master/Documentation
 
-   
+
 
 Tag Management Systeme
 ======================
 
 14.30 Uhr
 
-#. `Google Tag Manager <https://www.google.com/intl/de/tagmanager/>`__ 
+#. `Google Tag Manager <https://www.google.com/intl/de/tagmanager/>`__
    seit 2015 gibt es Version 2. Schick, auch für Manager.
 
    .. figure:: google-tag-manager.png
 
-Was macht man damit? Erläuterung allgemeiner Vorteile und konkreter Einsatzmöglichkeiten. 
+Was macht man damit? Erläuterung allgemeiner Vorteile und konkreter Einsatzmöglichkeiten.
 
 Folienvortrag. Ist auf Anfrage erhältlich.
 
