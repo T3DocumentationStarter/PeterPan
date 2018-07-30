@@ -11,7 +11,9 @@ Documentation guides
 
 .. http://docutils.sourceforge.net/docs/ref/rst/directives.html#image
 
--  `Microsoft Writing Style Guide <https://docs.microsoft.com/de-de/style-guide/welcome/>`__
+-  `Microsoft Writing Style Guide <https://docs.microsoft.com/de-de/style-guide/welcome/>`__ !
+
+-  `Google Developer Documentation Style Guide <https://developers.google.com/style/>`__ !
 
 -  |RTDlogo| `Documentation Guide <http://www.writethedocs.org/guide/>`__ of WriteTheDocs
 
