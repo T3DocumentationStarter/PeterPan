@@ -266,3 +266,15 @@ Interesting blog post: https://localheinz.com/blog/2018/05/06/cost-and-value-of-
 .. figure:: cost-and-value-of-docblocks.png
    :target: https://localheinz.com/blog/2018/05/06/cost-and-value-of-docblocks/
    :class:  with-shadow
+
+
+How to recruite contributors
+============================
+
+*  How Google does it:
+   `Writing an article and more <https://developers.google.com/web/resources/>`__
+   
+   .. image:: 016.png
+      :class: with-shadow
+      :target: https://developers.google.com/web/resources/
+      :alt: teaser image
