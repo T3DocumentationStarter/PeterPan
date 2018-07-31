@@ -72,7 +72,12 @@ What are tutorials, how-to guides, explanations, references?
       :alt: teaser image
       :target: https://tutorials.ubuntu.com/tutorial/tutorial-guidelines#0
       
-      
+Examples of guides
+------------------
+
+*  https://devguide.python.org/
+
+
 Examples of tutorials
 ---------------------
 
