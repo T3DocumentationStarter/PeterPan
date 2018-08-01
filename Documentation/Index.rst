@@ -32,6 +32,10 @@ See:
 
 -  `T3O-Team   <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>`__
 -  `T3DocTeam  <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/>`__
+   \| `issues <https://github.com/typo3-documentation/t3docteam/issues>`
+   \| `unassigned <https://github.com/typo3-documentation/t3docteam/issues>`
+   \| `assigned to marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`
+   \|
 
 .. toctree::
    :hidden:
