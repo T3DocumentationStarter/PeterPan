@@ -47,6 +47,13 @@ T3DocTeam
      \| `for marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`__
      \| `all <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen>`__
 
+T3DocTeam
+   Open issues and pull requests
+   
+   `not assigned <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+no%3Aassignee>`__
+   \| `for marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`__
+   \| `all <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen>`__
+
 
 .. toctree::
    :hidden:
