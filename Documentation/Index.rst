@@ -39,8 +39,8 @@ Github issues and pull requests:
 
 -  TYPO3-Documentation: 
    \| `all <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation>`__
-   \| `not taken yet <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+no%3ATassignee`__
-   \| `assigned to marble <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+assignee%3Amarble`__
+   \| `not taken yet <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+no%3ATassignee>`__
+   \| `marble's <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+assignee%3Amarble>`__
    \|
 
 
