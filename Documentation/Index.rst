@@ -35,13 +35,13 @@ Jump to:
 
 Open **TYPO3-Documentation** issues and pull requests:
 \| `not assigned <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+no%3Aassignee>`__
-\| `assigned to marble <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+assignee%3Amarble>`__
+\| `for marble <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+assignee%3Amarble>`__
 \| `all <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation>`__
 \|
 
 Open **T3DocTeam** issues and pull requests:
 \| `not assigned <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+no%3A:assignee>`__
-\| `assigned to marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`__
+\| `for marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`__
 \| `all <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen>`__
 \|
 
