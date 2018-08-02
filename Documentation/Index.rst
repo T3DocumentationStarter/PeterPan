@@ -52,6 +52,7 @@ T3DocTeam
      \| `for marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`__
      \| `all <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen>`__
 
+*  `Github query language <https://help.github.com/articles/searching-issues-and-pull-requests/>`__
 
 .. toctree::
    :hidden:
