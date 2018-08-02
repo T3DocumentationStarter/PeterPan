@@ -33,24 +33,18 @@ Jump to:
 -  `T3O-Team   <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>`__
 -  `T3DocTeam  <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/>`__
 
-TYPO3-Documentation
-   | Open issues and pull requests:
-   |    `not assigned <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+no%3Aassignee>`__
+Issues and pull requests:
+
+:TYPO3-Documentation:
+   `not assigned <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+no%3Aassignee>`__
    |    `assigned to marble 
         <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+assignee%3Amarble>`__
    |    `all <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation>`__
 
-Open **TYPO3-Documentation** issues and pull requests:
-\| `not assigned <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+no%3Aassignee>`__
-\| `for marble <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+assignee%3Amarble>`__
-\| `all <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation>`__
-\|
-
-Open **T3DocTeam** issues and pull requests:
-\| `not assigned <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+no%3A:assignee>`__
-\| `for marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`__
-\| `all <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen>`__
-\|
+:T3DocTeam:
+   `not assigned <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+no%3A:assignee>`__
+   \| `for marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`__
+   \| `all <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen>`__
 
 
 
