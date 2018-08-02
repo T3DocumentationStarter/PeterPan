@@ -48,7 +48,6 @@ T3DocTeam
      \| `all <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen>`__
 
 
-
 .. toctree::
    :hidden:
 
