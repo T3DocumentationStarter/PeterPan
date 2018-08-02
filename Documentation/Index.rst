@@ -41,7 +41,7 @@ TYPO3-Documentation
    \| `all <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation>`__
 
 T3DocTeam
-   `not assigned <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+no%3A:assignee>`__
+   `not assigned <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+no%3Aassignee>`__
    \| `for marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`__
    \| `all <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen>`__
 
