@@ -28,7 +28,7 @@ My Public Info Project 001
 
 :Others:          `Who else has a starter project? <TeachingDocs/StarterManuals/Index.html#who-is-where>`__
 
-See:
+Github issues and pull requests:
 
 -  `T3O-Team   <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>`__
 -  `T3DocTeam  <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/>`__
@@ -36,6 +36,16 @@ See:
    \| `unassigned <https://github.com/typo3-documentation/t3docteam/issues>`__
    \| `assigned to marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`__
    \|
+
+-  TYPO3-Documentation: 
+   \| `all <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation>`__
+   \| `not taken yet <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+no%3ATassignee`__
+   \| `assigned to marble <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+assignee%3Amarble`__
+   \|
+
+
+https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen++user%3ATYPO3-Documentation+
+
 
 .. toctree::
    :hidden:
