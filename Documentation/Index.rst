@@ -41,18 +41,16 @@ TYPO3-Documentation
      \| `assigned to marble <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+assignee%3Amarble>`__
      \| `all <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation>`__
 
+   | Open pull requests
+   | `not assigned <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+no%3Aassignee+is%3Apr>`__
+     \| `assigned to marble <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+assignee%3Amarble+is%3Apr>`__
+     \| `all <https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3ATYPO3-Documentation+is%3Apr>`__
+
 T3DocTeam
    | Open issues and pull requests
    | `not assigned <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+no%3Aassignee>`__
      \| `for marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`__
      \| `all <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen>`__
-
-T3DocTeam
-   Open issues and pull requests
-   
-   `not assigned <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+no%3Aassignee>`__
-   \| `for marble <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen+assignee%3Amarble>`__
-   \| `all <https://github.com/typo3-documentation/t3docteam/issues?q=is%3Aopen>`__
 
 
 .. toctree::
