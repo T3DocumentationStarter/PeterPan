@@ -13,6 +13,7 @@ My Public Info Project 001
 
 :Others:          `Who else has a starter project? <TeachingDocs/StarterManuals/Index.html#who-is-where>`__
 
+
 Jump to:
 
 -  `T3O-Team   <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>`__
