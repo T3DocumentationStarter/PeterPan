@@ -1,10 +1,6 @@
 
 .. include:: Includes.txt
 
-
-.. Usually we define 'php' as default highlight language in Includes.txt.
-   With the following 'highlight' directive we switch to reStructuredText as default highlight language.
-
 .. highlight:: rst
 
 ==========================
