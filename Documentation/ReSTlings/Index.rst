@@ -5,6 +5,10 @@
 ReST Tryouts
 ============
 
+Trying SVG images
+=================
+
+.. image:: system.svg
 
 Wanted: Inline code starting with blanks
 ========================================
